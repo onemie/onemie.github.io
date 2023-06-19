@@ -1,5 +1,3 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/gPbM0MK8CP8A174rmUwGsADNYKD.jpg" group-title="RECENTLY", TRANSFORMERS 3
 #EXTVLCOPT:http-user-agent=ffkyou
 http://w.nasvpn.xyz:8080/movie/haji/haji/19352.mkv
