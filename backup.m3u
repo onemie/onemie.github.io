@@ -1,16 +1,16 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 xui-id="64" tvg-id="TV1" tvg-name="TV1 [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT8czAKos6gyD-7fuSJIHa4M.png" group-title="MALAYSIA",TV1 [B]
+#EXTINF:-1 xui-id="64" tvg-id="TV1" tvg-name="TV1 [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT8czAKos6gyD-7fuSJIHa4M.png" group-title="MALAYSIA",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1 xui-id="60" tvg-id="TV2" tvg-name="TV2 [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_m-Gz6ajBI0zarwiDvdvo_.png" group-title="MALAYSIA",TV2 [B]
+#EXTINF:-1 xui-id="60" tvg-id="TV2" tvg-name="TV2 [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_m-Gz6ajBI0zarwiDvdvo_.png" group-title="MALAYSIA",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 xui-id="1494" tvg-id="TV3" tvg-name="TV3 [C]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_-3Y_h3omn-uGPZPsjmOex.png" group-title="MALAYSIA",TV3 [C]
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 
 #EXTINF:-1 xui-id="1504" tvg-id="TV6" tvg-name="TV6 [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT8O4kpThciy8aQ_YzfjVPBw.png" group-title="MALAYSIA",TV6 [B]
-https://link.nxtdns.tech:443/play/v1PXI3LMFJwgOAAE_nDxxIYf1E3M4TICjSY7ggQB4xk
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 xui-id="1505" tvg-id="DidikTVKPM" tvg-name="DIDIKTV [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmQo5uNBwLYtfo6sa4DQP0UTVr8kV6kuj_ImAxB_fLIne.png" group-title="MALAYSIA",DIDIKTV [B]
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
