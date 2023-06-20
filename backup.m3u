@@ -31,3 +31,9 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1 xui-id="237" tvg-id="Indosiar.id" tvg-name="INDOSIAR [B]" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4OswIIZWe5zNl-tiF3pj_2tyzHFNYHa64E1qpxPmrvUv.png" group-title="INDONESIA",INDOSIAR [B]
 https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
+
+#EXTINF:-1 xui-id="123" tvg-id="NET.id" tvg-name="NET.TV" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4OswIIZWe5zNl-tiF3pj_2uD6hktvIA5jXjWA_fVzXoz.png" group-title="INDONESIA",NET.TV [B]
+https://kusnadipepenk.github.io:443/campeign/netv.m3u8
+
+#EXTINF:-1 xui-id="238" tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4OswIIZWe5zNl-tiF3pj_2tt9nc9bkW9H7h3yoMaxijx.png" group-title="INDONESIA",ANTV [B]
+https://kusnadipepenk.github.io:443/campeign/antv.m3u8
