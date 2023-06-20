@@ -26,3 +26,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id
 
 #EXTINF:-1 xui-id="23132" tvg-id="" tvg-name="DRAMA SANGAT [B]" tvg-logo="https://link.nxtdns.tech:443/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZRmvjkpGhlQ1uoBGuSN8ZW1R1DoK_Lv5lrbyN-6y7i_yQVAuD_AnaQMRBqmvhPLzk.png" group-title="MALAYSIA",DRAMA SANGAT [B]
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
+
+######################################## INDO ###########################################
+
+#EXTINF:-1 xui-id="237" tvg-id="Indosiar.id" tvg-name="INDOSIAR [B]" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4OswIIZWe5zNl-tiF3pj_2tyzHFNYHa64E1qpxPmrvUv.png" group-title="INDONESIA",INDOSIAR [B]
+https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
