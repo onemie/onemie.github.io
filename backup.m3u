@@ -73,7 +73,7 @@ https://kusnadipepenk.github.io:443/campeign/tvnmovies.m3u8
 #EXTINF: -1 tvg-id="tvNMovies.kr" tvg-name="tvN Movies-B" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmT5cMEPkRCRDvPS5YzUCDIaqqfrdeUOm0InA1zhw8nCa.png" group-title="KOREAN", tvN Movies-B
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571261&extension=ts&play_token=shareext@.ts
 
-#EXTINF: -1 tvg-name="New K-Movies" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkmovies_logo_dark.png" group-title="KOREA", New K-Movies
+#EXTINF: -1 tvg-name="New K-Movies" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkmovies_logo_dark.png" group-title="KOREAN", New K-Movies
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e
 
 #EXTINF: -1 tvg-id="tvN" tvg-name="tvN-A" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmT5cMEPkRCRDvPS5YzUCDIbXIldU2jOrIHBWhk-qLY8w.png" group-title="KOREAN", tvN-A
