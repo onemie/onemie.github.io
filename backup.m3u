@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 xui-id="64" tvg-id="TV1" tvg-name="TV1 [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT8czAKos6gyD-7fuSJIHa4M.png" group-title="MALAYSIA",TV1 [B]
-https://link.nxtdns.tech:443/play/v1PXI3LMFJwgOAAE_nDxxOqVWzyLnzoEgU4AZ0o_j8o
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #EXTINF:-1 xui-id="60" tvg-id="TV2" tvg-name="TV2 [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_m-Gz6ajBI0zarwiDvdvo_.png" group-title="MALAYSIA",TV2 [B]
-https://link.nxtdns.tech:443/play/v1PXI3LMFJwgOAAE_nDxxOiCmZajZeUf_YtKaS0rmr4
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 xui-id="1494" tvg-id="TV3" tvg-name="TV3 [C]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_-3Y_h3omn-uGPZPsjmOex.png" group-title="MALAYSIA",TV3 [C]
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
