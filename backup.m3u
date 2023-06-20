@@ -41,6 +41,17 @@ https://kusnadipepenk.github.io:443/campeign/antv.m3u8
 #EXTINF:-1 xui-id="1431" tvg-id="RTV" tvg-name="RTV [B]" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4OswIIZWe5zNl-tiF3pj_2v2VehrtY8iA2g8ytJNnq5A.png" group-title="INDONESIA",RTV [B]
 https://kusnadipepenk.github.io:443/campeign/rtv.m3u8
 
+####################################### SPORTS ############################################
 
+#EXTINF:-1 tvg-id="AstroSuperSport" tvg-name="ASSP" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4PehdJd5A-sJkBaOmDCimvtrleos0BgrjZf-so3ZcvkX.png" group-title="SPORTS",ASSP [B]
+https://kusnadipepenk.github.io:443/ntn/asp1.m3u8
 
+#EXTINF:-1 tvg-id="AstroSuperSport2" tvg-name="ASSP2" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4PehdJd5A-sJkBaOmDCimvvh-Qip8FKgnr1rxqh-l_8s.png" group-title="SPORTS",ASSP2 [B]
+https://kusnadipepenk.github.io:443/ntn/asp2.m3u8
 
+#EXTINF:-1 tvg-id="AstroSuperSport3" tvg-name="ASSP3" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4PehdJd5A-sJkBaOmDCimvtb-NZ5moQYqrwNdU70lEfI.png" group-title="SPORTS",ASSP3 [B]
+##https://kusnadipepenk.github.io:443/ntn/asp3.m3u8
+http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186389&extension=ts&play_token=oNnNMlQM3k
+
+#EXTINF:-1 tvg-id="AstroSuperSport4" tvg-name="ASSP4" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4PehdJd5A-sJkBaOmDCimvtESxq34lpAwXQrYw6QzrfE.png" group-title="SPORTS",ASSP4 [B]
+https://kusnadipepenk.github.io:443/ntn/asp4.m3u8
