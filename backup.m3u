@@ -61,3 +61,44 @@ http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186389&extens
 
 #EXTINF:-1 tvg-id="AstroSuperSport4" tvg-name="ASSP4" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4PehdJd5A-sJkBaOmDCimvtESxq34lpAwXQrYw6QzrfE.png" group-title="SPORTS",ASSP4 [B]
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186390&extension=ts&play_token=oNnNMlQM3k
+
+####################################### KOREA ###########################################
+
+#EXTINF: -1 tvg-id="KBSWorld" tvg-name="KBS World" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmYnnXc7QoYbZFNeVSKHWnPBp7XsAJbjwkPAFYk0Z4UUA.png" group-title="KOREA", KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+#EXTINF: -1 tvg-id="tvNMovies.kr" tvg-name="tvN Movies-A" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmT5cMEPkRCRDvPS5YzUCDIaqqfrdeUOm0InA1zhw8nCa.png" group-title="KOREA", tvN Movies-A
+https://kusnadipepenk.github.io:443/campeign/tvnmovies.m3u8
+
+#EXTINF: -1 tvg-id="tvNMovies.kr" tvg-name="tvN Movies-B" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmT5cMEPkRCRDvPS5YzUCDIaqqfrdeUOm0InA1zhw8nCa.png" group-title="KOREA", tvN Movies-B
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571261&extension=ts&play_token=shareext@.ts
+
+#EXTINF: -1 tvg-name="New K-Movies" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newkmovies_logo_dark.png" group-title="KOREA", New K-Movies
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e
+
+#EXTINF: -1 tvg-id="tvN" tvg-name="tvN-A" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmT5cMEPkRCRDvPS5YzUCDIbXIldU2jOrIHBWhk-qLY8w.png" group-title="KOREA", tvN-A
+https://kusnadipepenk.github.io:443/ntn/ttvn.m3u8
+
+#EXTINF: -1 tvg-id="tvN" tvg-name="tvN-B" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmT5cMEPkRCRDvPS5YzUCDIbXIldU2jOrIHBWhk-qLY8w.png" group-title="KOREA", tvN-B
+https://kusnadipepenk.github.io:443/campeign/tvn.m3u8
+
+#EXTINF: -1 tvg-id="Gem" tvg-name="Sony GEM-A" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmSQXH6G5-vv-9oYs_LsYa4pueHQEHrNA9pSqJRkJkmyO.png" group-title="KOREA", Sony GEM-A
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.target
+
+#EXTINF: -1 tvg-id="325233" tvg-name="Sony GEM-B" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmSQXH6G5-vv-9oYs_LsYa4pueHQEHrNA9pSqJRkJkmyO.png" group-title="KOREA", Sony GEM-B
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+
+#EXTINF: -1 tvg-id="436516" tvg-name="K Plus-A" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmRpzF68PLI3GX9gzHBxabC7gCHGhhAwHU-4d4RgEMUh_.png" group-title="KOREA", K Plus-A
+https://kusnadipepenk.github.io:443/campeign/kplus.m3u8
+
+#EXTINF: -1 tvg-id="638002" tvg-name="K Plus-B" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmRpzF68PLI3GX9gzHBxabC7gCHGhhAwHU-4d4RgEMUh_.png" group-title="KOREA", K Plus-B
+http://210.210.155.35:80/uq2663/h/h08/01.m3u8
+
+#EXTINF: -1 tvg-id="ONE" tvg-name="ONE HD-A" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmcTXs9uejcLW-21WP06WSWL2vFuS6NrxVF7R7s_vDEfd.png" group-title="KOREA", ONE HD-A
+https://kusnadipepenk.github.io:443/campeign/sone.m3u8
+
+#EXTINF: -1 tvg-id="ONE" tvg-name="ONE HD-B" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmcTXs9uejcLW-21WP06WSWL2vFuS6NrxVF7R7s_vDEfd.png" group-title="KOREA", ONE HD-B
+https://kusnadipepenk.github.io:443/campeign/sone.m3u8
+
+
+
