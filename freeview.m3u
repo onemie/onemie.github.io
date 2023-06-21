@@ -47,6 +47,11 @@ https://kusnadipepenk.github.io:443/campeign/antv.m3u8
 #EXTINF:-1 xui-id="1431" tvg-id="RTV" tvg-name="RTV [B]" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4OswIIZWe5zNl-tiF3pj_2v2VehrtY8iA2g8ytJNnq5A.png" group-title="INDONESIA",RTV [B]
 https://kusnadipepenk.github.io:443/campeign/rtv.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="INDONESIA", RCTI HD
+https://nxanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
 ####################################### SPORTS ############################################
 
 #EXTINF:-1 tvg-id="AstroSuperSport" tvg-name="ASSP" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4PehdJd5A-sJkBaOmDCimvtrleos0BgrjZf-so3ZcvkX.png" group-title="SPORTS",ASSP [B]
