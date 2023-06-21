@@ -34,6 +34,9 @@ https://onego77.com/wrna.m3u8
 ###http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/420464.m3u8
 http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236342
 
+#EXTINF:-1 xui-id="227" tvg-id="AstroRia" tvg-name="ASTRO RIA [C]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmZ2wBbXfqO_vlwalTWBYXc1z0z3eKgeHskQUzk-dv9N1.png" group-title="MALAYSIA",ASTRO RIA [D]
+https://onego77.com/ria.m3u8
+
 ######################################## INDO ###########################################
 
 #EXTINF:-1 xui-id="237" tvg-id="Indosiar.id" tvg-name="INDOSIAR [B]" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4OswIIZWe5zNl-tiF3pj_2tyzHFNYHa64E1qpxPmrvUv.png" group-title="INDONESIA",INDOSIAR [B]
