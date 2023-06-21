@@ -35,40 +35,40 @@ http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/420464.m3u8
 
 ######################################## INDO ###########################################
 
-#EXTINF:-1 xui-id="237" tvg-id="Indosiar.id" tvg-name="INDOSIAR [B]" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4OswIIZWe5zNl-tiF3pj_2tyzHFNYHa64E1qpxPmrvUv.png" group-title="INDONESIA",INDOSIAR [B]
+#EXTINF:-1 xui-id="237" tvg-id="Indosiar.id" tvg-name="INDOSIAR [B]" tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="INDONESIA",INDOSIAR [B]
 https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
 
-#EXTINF:-1 xui-id="1431" tvg-id="RTV" tvg-name="RTV [B]" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4OswIIZWe5zNl-tiF3pj_2v2VehrtY8iA2g8ytJNnq5A.png" group-title="INDONESIA",RTV [B]
+#EXTINF:-1 xui-id="1431" tvg-id="RTV" tvg-name="RTV [B]" tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="INDONESIA",RTV [B]
 https://kusnadipepenk.github.io:443/campeign/rtv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="INDONESIA", RCTI HD
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co/SXrk5h0/asrdrd.png" group-title="INDONESIA", RCTI HD
 https://nxanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="GTV.id" tvg-logo="http://dusktill.masuk.web.id/img/gtv.png" group-title="INDONESIA",GLOBAL TV HD
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://i.ibb.co/yRBwDV1/gtv.png" group-title="INDONESIA",GLOBAL TV HD
 https://nxanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="http://dusktill.masuk.web.id/img/mnctv.png" group-title="INDONESIA",MNC TV HD
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://i.ibb.co/kVLz3ty/mnc.png" group-title="INDONESIA",MNC TV HD
 https://nxanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id="INews.id" tvg-name="iNews" tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="INDONESIA",iNews
+#EXTINF:0 tvg-id="INews.id" tvg-name="iNews" tvg-logo="https://i.ibb.co/cTxMPTx/inews.png" group-title="INDONESIA",iNews
 https://nxanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-url="https://yamcode.com/raw/transtv-guide" tvg-logo="https://cdn.kibrispdr.org/data/logo-trans-tv-png-2.png" group-title="Indonesia Channel",Trans TV
+#EXTINF:0 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-url="https://yamcode.com/raw/transtv-guide" tvg-logo="https://i.ibb.co/2v1fBK4/fhy.png" group-title="Indonesia Channel",Trans TV
 https://nxanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id="="Trans7.id" tvg-name="Trans 7" tvg-url="https://yamcode.com/raw/trans7-guide" tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="INDONESIA",Trans 7
+#EXTINF:0 tvg-id="="Trans7.id" tvg-name="Trans 7" tvg-url="https://yamcode.com/raw/trans7-guide" tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png" group-title="INDONESIA",Trans 7
 https://nxanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
