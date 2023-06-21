@@ -38,8 +38,15 @@ http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/420464.m3u8
 #EXTINF:-1 xui-id="237" tvg-id="Indosiar.id" tvg-name="INDOSIAR [B]" tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="INDONESIA",INDOSIAR [B]
 https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
 
-#EXTINF:-1 xui-id="1431" tvg-id="RTV" tvg-name="RTV [B]" tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="INDONESIA",RTV [B]
-https://kusnadipepenk.github.io:443/campeign/rtv.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:-1 group-title="Indonesia Channel" tvg-logo="https://i.ibb.co/kVLz3ty/mnc.png",MNC News
+https://nxanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:0 tvg-id="RajawaliTV.id" tvg-name="Rajawali TV" tvg-url="http://www.useetv.com" tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="Indonesia Channel",Rajawali TV
+https://nxanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
