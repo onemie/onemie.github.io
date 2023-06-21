@@ -91,6 +91,11 @@ https://nxanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:0 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://i.ibb.co/QpDxmym/cgki.png" group-title="INDONESIA",Kompas TV
 https://nxanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:0 tvg-id="BeritaSatu.id" tvg-name="Berita Satu" tvg-url="http://www.useetv.com" tvg-logo="https://i.ibb.co/VCsvKyP/wry.png" group-title="Indonesia Channel",Berita Satu
+https://nxanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+
 ####################################### SPORTS ############################################
 
 #EXTINF:-1 tvg-id="AstroSuperSport" tvg-name="ASSP" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4PehdJd5A-sJkBaOmDCimvtrleos0BgrjZf-so3ZcvkX.png" group-title="SPORTS",ASSP [B]
