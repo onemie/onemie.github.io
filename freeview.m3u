@@ -105,7 +105,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id="IDXChannel.id" tvg-name="IDX" tvg-url="http://www.useetv.com" tvg-logo="http://dusktill.masuk.web.id/img/idx.png" group-title="INDONESIA",IDX
+#EXTINF:0 tvg-id="IDXChannel.id" tvg-name="IDX" tvg-url="http://www.useetv.com" tvg-logo="https://i.ibb.co/kGc2hrq/Pics-Art-02-18-05-21-58.png" group-title="INDONESIA",IDX
 https://nxanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 ####################################### SPORTS ############################################
