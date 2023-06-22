@@ -359,6 +359,7 @@ http://50.7.220.74:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&ct=1839
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 ####################################### KNOWLEDGE ##########################################
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="HistoryAsia.us" tvg-name="History Asia" tvg-logo="https://i.imgur.com/alk3ahK.png" group-title="Knowledge",History
@@ -451,6 +452,20 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotai
 https://nxanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
 ####################################### SPORTS ############################################
+
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SPORTS",ARENA BOLA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5099
+http://linears-playback.astro.com.my:80/vsg/415yOZpFG2qooHnI3eHweHLEXzDfwi3bIBV3vsmCeu0KU=HsOu/dash-wv/jitp-linearwm/5099/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5100
+#EXTINF:-1 tvg-id="AstroArenaBola2" tvg-name="" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SPORTS",ARENA BOLA 2
+http://linears-playback.astro.com.my:80/vsg/41thS3lnydwIlDZxGV-g-TihA8MQrn69ZZk0MjtGzUem4=-ZkE/dash-wv/jitp-linearwm/5100/default_ott.mpd
+
+#EXTINF:-1 xui-id="1436" tvg-id="TVSUKAN" tvg-name="SUKAN RTM" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4EztDL4SwrUD5qIe1xCHAovcv-DSAphZ4ZhOwJY_DHKa.png" group-title="SPORTS",SUKAN RTM
+https://link.nxtdns.tech:443/play/hnHfMWF6SSwSlaNIWcsO_lRqfBYBSjMXYl-D8j21HScx0rGXz1VvCoM1EPIcSk8a
 
 #EXTINF:-1 tvg-id="AstroSuperSport" tvg-name="ASSP" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4PehdJd5A-sJkBaOmDCimvtrleos0BgrjZf-so3ZcvkX.png" group-title="SPORTS",ASSP [B]
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186387&extension=ts&play_token=oNnNMlQM3k
