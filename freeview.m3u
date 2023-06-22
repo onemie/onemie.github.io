@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTM3U billed-msg="🔥OneGO DRM FREEVIEW🔥" tvg-logo="
+
+
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 xui-id="64" tvg-id="TV1" tvg-name="TV1 [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT8czAKos6gyD-7fuSJIHa4M.png" group-title="MALAYSIA",TV1 [B]
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
