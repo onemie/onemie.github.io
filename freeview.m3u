@@ -187,20 +187,20 @@ https://nxanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPre
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id="Paramount Network" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="MOVIES",Paramount Network
+#EXTINF:0 tvg-id="Paramount Network" tvg-logo="https://i.imgur.com/thSvUUd.png" group-title="MOVIES",Paramount Network
 https://anevia114.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id="Rock Action.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/rock-action-1.png " group-title="MOVIES",Rock Action
+#EXTINF:0 tvg-id="Rock Action.Id" tvg-logo="https://i.ibb.co/TMFZhC4/rgdf.png " group-title="MOVIES",Rock Action
 https://anevia114.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id"rockentertainment.sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png/revision/latest?cb=20210911032942" group-title="MOVIES",Rock Entertainment
+#EXTINF:0 tvg-id"rockentertainment.sg" tvg-logo="https://i.ibb.co/7jpK2DZ/khjk.png" group-title="MOVIES",Rock Entertainment
 https://anevia114.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/warner_tv.png",Warner TV (V)
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/GR4H1Tt/jjkj.png",Warner TV (V)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
