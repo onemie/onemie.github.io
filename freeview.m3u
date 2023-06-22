@@ -2,6 +2,32 @@
 
 #EXTM3U billed-msg="🔥OneGO DRM FREEVIEW🔥" tvg-logo="
 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml.gz" refresh="3600"
+#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml.gz"
+
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz"refresh="3600"
+#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz"
+
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz" refresh="3600"
+#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
+
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz" refresh="3600"
+#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz"
+
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz" refresh="3600"
+#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz"
+
+#EXTM3U# x-tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml", 
+#EXTM3U# x-tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml", 
+
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml.gz" refresh="3600"
+#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml.gz"
+
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz" refresh="3600"
+#EXTM3U x-tvg-url="http://botallen.live/epg.xml.gz"
+
+################################################################################################
+
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 xui-id="64" tvg-id="TV1" tvg-name="TV1 [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT8czAKos6gyD-7fuSJIHa4M.png" group-title="MALAYSIA",TV1 [B]
