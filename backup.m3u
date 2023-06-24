@@ -28,10 +28,19 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1 xui-id="1508" tvg-id="AstroWarna" tvg-name="ASTRO WARNA" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmSA5oNf42IQYfso_RaLEsiArn_MQWLgggwGbzJx0E-6S.png" group-title="MALAYSIA 2",ASTRO WARNA
-https://onego77.com/wrna.m3u8
+https://onego77.com/wa.m3u8
 
 #EXTINF:-1 xui-id="227" tvg-id="AstroRia" tvg-name="ASTRO RIA [C]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmZ2wBbXfqO_vlwalTWBYXc1z0z3eKgeHskQUzk-dv9N1.png" group-title="MALAYSIA 2",ASTRO RIA
-https://onego77.com/11.m3u8
+https://onego77.com/ra.m3u8
+
+#EXTINF:-1 xui-id="1512" tvg-id="AstroOasis" tvg-name="ASTRO OASIS" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmVb0rXxsGqcuGxFyBWVLMPFTh_DBpgbSvS04Y4jvzxZ5.png" group-title="MALAYSIA 2",ASTRO OASIS
+https://onego77.com/os.m3u8
+
+#EXTINF:-1 xui-id="1514" tvg-id="AstroAura" tvg-name="ASTRO AURA" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbfqpJbNaTNL4OYbasJtzQCrBW9OVOIPeHJwX5zlm_Yf.png" group-title="MALAYSIA 2",ASTRO AURA
+https://link.nxtdns.tech:443/play/v1PXI3LMFJwgOAAE_nDxxA121ZvpIWd5cR6Ev4huqE8
+
+#EXTINF:-1 xui-id="1510" tvg-id="AstroRania" tvg-name="ASTRO RANIA" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmZ2wBbXfqO_vlwalTWBYXc0y53S8g0F0wNclJVmyFMHz.png" group-title="MALAYSIA 2",ASTRO RANIA
+
 
 ######################################## INDO ###########################################
 
