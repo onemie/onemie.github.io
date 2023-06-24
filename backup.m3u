@@ -1,16 +1,19 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 xui-id="64" tvg-id="TV1" tvg-name="TV1 [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT8czAKos6gyD-7fuSJIHa4M.png" group-title="MALAYSIA 2",TV1
-https://onego77.com/1.m3u8
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/live/haji/haji/4.m3u8
 
 #EXTINF:-1 xui-id="60" tvg-id="TV2" tvg-name="TV2 [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_m-Gz6ajBI0zarwiDvdvo_.png" group-title="MALAYSIA 2",TV2
-https://onego77.com/2.m3u8
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/live/haji/haji/5.m3u8
 
 #EXTINF:-1 xui-id="1494" tvg-id="TV3" tvg-name="TV3 [C]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_-3Y_h3omn-uGPZPsjmOex.png" group-title="MALAYSIA 2",TV3
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 
 #EXTINF:-1 xui-id="1504" tvg-id="TV6" tvg-name="TV6 [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT8O4kpThciy8aQ_YzfjVPBw.png" group-title="MALAYSIA 2",TV6
-https://onego77.com/6.m3u8
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/live/haji/haji/4138.m3u8
 
 #EXTINF:-1 xui-id="1505" tvg-id="DidikTVKPM" tvg-name="DIDIKTV [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmQo5uNBwLYtfo6sa4DQP0UTVr8kV6kuj_ImAxB_fLIne.png" group-title="MALAYSIA 2",DIDIKTV
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
@@ -31,10 +34,20 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 https://onego77.com/wa.m3u8
 
 #EXTINF:-1 xui-id="227" tvg-id="AstroRia" tvg-name="ASTRO RIA [C]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmZ2wBbXfqO_vlwalTWBYXc1z0z3eKgeHskQUzk-dv9N1.png" group-title="MALAYSIA 2",ASTRO RIA
-https://onego77.com/ra.m3u8
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/live/haji/haji/11.m3u8
 
 #EXTINF:-1 xui-id="1512" tvg-id="AstroOasis" tvg-name="ASTRO OASIS" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmVb0rXxsGqcuGxFyBWVLMPFTh_DBpgbSvS04Y4jvzxZ5.png" group-title="MALAYSIA 2",ASTRO OASIS
-https://onego77.com/os.m3u8
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/live/haji/haji/175.m3u8
+
+#EXTINF:-1 xui-id="230" tvg-id="AstroCitra" tvg-name="ASTRO CITRA [A]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmVoXDm_Fn0zhz1rHllreCQLuVPn8IAjJpWNUospV0DV6.png" group-title="MALAYSIA 2",ASTRO CITRA
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/live/haji/haji/172.m3u8
+
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://i.ibb.co/1byf8wn/ceria.png" group-title="MALAYSIA 2",Astro Ceria
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/live/haji/haji/5525.m3u8
 
 #EXTINF:-1 xui-id="1514" tvg-id="AstroAura" tvg-name="ASTRO AURA" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbfqpJbNaTNL4OYbasJtzQCrBW9OVOIPeHJwX5zlm_Yf.png" group-title="MALAYSIA 2",ASTRO AURA
 https://link.nxtdns.tech:443/play/v1PXI3LMFJwgOAAE_nDxxA121ZvpIWd5cR6Ev4huqE8
