@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 xui-id="64" tvg-id="TV1" tvg-name="TV1 [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT8czAKos6gyD-7fuSJIHa4M.png" group-title="MALAYSIA 2",TV1
-https://d25tgymtnqzu8s.cloudfront.net:443/smil:tv1/chunklist_b2496000_slENG.m3u8?id=2
+http://w.nasvpn.xyz:8080/live/haji/haji/4.m3u8
 
 #EXTINF:-1 xui-id="60" tvg-id="TV2" tvg-name="TV2 [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_m-Gz6ajBI0zarwiDvdvo_.png" group-title="MALAYSIA 2",TV2
 https://d25tgymtnqzu8s.cloudfront.net:443/smil:tv2/chunklist_b2496000_slENG.m3u8?id=1
