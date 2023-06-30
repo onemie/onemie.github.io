@@ -30,38 +30,95 @@
 
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 xui-id="64" tvg-id="TV1" tvg-name="TV1 [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT8czAKos6gyD-7fuSJIHa4M.png" group-title="MALAYSIA",TV1 [B]
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1 xui-id="60" tvg-id="TV2" tvg-name="TV2 [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_m-Gz6ajBI0zarwiDvdvo_.png" group-title="MALAYSIA",TV2 [B]
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTI#EXTINF:-1 xui-id="1515" tvg-id="TVAlhijrah" tvg-name="AL-HIJRAH" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbfqpJbNaTNL4OYbasJtzQDpM-TUXx0njevgEhmcV4v7.png" group-title="MALAYSIA",AL-HIJRAH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1113
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
-#EXTINF:-1 xui-id="1494" tvg-id="TV3" tvg-name="TV3 [C]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_-3Y_h3omn-uGPZPsjmOex.png" group-title="MALAYSIA",TV3 [C]
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 
-#EXTINF:-1 xui-id="1504" tvg-id="TV6" tvg-name="TV6 [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT8O4kpThciy8aQ_YzfjVPBw.png" group-title="MALAYSIA",TV6 [B]
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+#EXTINF:-1 xui-id="8" tvg-id="AstroAwani" tvg-name="ASTRO AWANI" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4OVKYfgn4lnOChsfsGBzSagyCQpF8MBL91JqaNo57mxS.png" group-title="NEWS",ASTRO AWANI
+https://link.nxtdns.tech:443/play/hnHfMWF6SSwSlaNIWcsO_h8aW6hgb4Qs-gHacGjhDoo
 
-#EXTINF:-1 xui-id="1505" tvg-id="DidikTVKPM" tvg-name="DIDIKTV [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmQo5uNBwLYtfo6sa4DQP0UTVr8kV6kuj_ImAxB_fLIne.png" group-title="MALAYSIA",DIDIKTV [B]
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
+#EXTINF:-1 xui-id="1426" tvg-id="AstroWarna" tvg-name="AL-HIJRAH" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmSA5oNf42IQYfso_RaLEsiArn_MQWLgggwGbzJx0E-6S.png" group-title="MALAYSIA",ASTRO WARNA
+http://149.18.85.131:80/live/8059765630/3322606439/191900.m3u8
 
-#EXTINF:-1 xui-id="6382" tvg-id="8TV" tvg-name="TV8 [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT8Z_EPZHd4vQxkPMFvxgAo-.png" group-title="MALAYSIA",TV8 [B]
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
+#EXTINF:-1 xui-id="1512" tvg-id="AstroOasis" tvg-name="ASTRO OASIS" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmVb0rXxsGqcuGxFyBWVLMPFTh_DBpgbSvS04Y4jvzxZ5.png" group-title="MALAYSIA",ASTRO OASIS
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/live/haji/haji/175.m3u8
 
-#EXTINF:-1 xui-id="1495" tvg-id="TV9" tvg-name="TV9 [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_Jh3ihyVfFVpxXGeKflMEL.png" group-title="MALAYSIA",TV9 [B]
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
+#EXTINF:-1 xui-id="1511" tvg-id="AstroPrima" tvg-name="ASTRO PRIMA" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmdygDXBGm-IuVhXkY63mg23c4vJd6ZRaHAStVueDc6Nj.png" group-title="https://i.ibb.co/kGc2hrq/OneGOv1.png",ASTRO PRIMA
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/live/haji/haji/176.m3u8
 
-#EXTINF:-1 xui-id="1437" tvg-id="OKEY" tvg-name="OKEY [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmVb0rXxsGqcuGxFyBWVLMPELWvWqYaLIjuTEC91sudG_.png" group-title="MALAYSIA",OKEY [B]
+#EXTINF:-1 xui-id="1509" tvg-id="AstroRia" tvg-name="ASTRO RIA [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmZ2wBbXfqO_vlwalTWBYXc1z0z3eKgeHskQUzk-dv9N1.png" group-title="MALAYSIA",ASTRO RIA
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/live/haji/haji/11.m3u8
+
+#EXTINF:-1 xui-id="1461" tvg-id="AwesomeTV" tvg-name="AWESOME TV" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbfqpJbNaTNL4OYbasJtzQCXYg6EWzbwHDSGio4xNd66.png" group-title="MALAYSIA",AWESOME TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211/
+#https://aqfadtv.xyz/live/awesometv/index.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_ott.mpd
+
+#EXTINF:-1 xui-id="30" tvg-id="BernamaTV" tvg-name="BERNAMA" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4PYa-ZVRQIlnjxOzANY2r0uN5Res_A1BQQ_9dDiBAcmp.png" group-title="NEWS",BERNAMA
+https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
+
+#EXTINF:-1 xui-id="1505" tvg-id="DidikTVKPM" tvg-name="DIDIKTV" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmQo5uNBwLYtfo6sa4DQP0UTVr8kV6kuj_ImAxB_fLIne.png" group-title="MALAYSIA",DIDIKTV
+https://live-sg1.global.ssl.fastly.net:443/live-hls/tonton2_720p/index.m3u8
+
+#EXTINF:-1 tvg-id="AstroAura" tvg-name="Astro Aura" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbfqpJbNaTNL4OYbasJtzQCrBW9OVOIPeHJwX5zlm_Yf.png" group-title="MALAYSIA",Astro Aura
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/609/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
+##https://iplogger.com/aura
+
+#EXTINF:-1 tvg-id="AstroRania" tvg-name="Astro Rania" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmZ2wBbXfqO_vlwalTWBYXc0y53S8g0F0wNclJVmyFMHz.png" group-title="MALAYSIA",Astro Rania
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/608/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
+
+#EXTINF:-1 xui-id="1437" tvg-id="OKEY" tvg-name="OKEY" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmVb0rXxsGqcuGxFyBWVLMPELWvWqYaLIjuTEC91sudG_.png" group-title="MALAYSIA",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
 
-#EXTINF:-1 xui-id="23132" tvg-id="" tvg-name="DRAMA SANGAT [B]" tvg-logo="https://link.nxtdns.tech:443/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZRmvjkpGhlQ1uoBGuSN8ZW1R1DoK_Lv5lrbyN-6y7i_yQVAuD_AnaQMRBqmvhPLzk.png" group-title="MALAYSIA",DRAMA SANGAT [B]
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
+#EXTINF:-1 xui-id="216" tvg-id="" tvg-name="RTB SUKMAINDERA" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmcoCYgiqX_bbO3lXR4__tQdOgc7QT9NOFuJU2WJ-IX41.png" group-title="MALAYSIA",RTB SUKMAINDERA
+https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
-#EXTINF:-1 xui-id="1508" tvg-id="AstroWarna" tvg-name="ASTRO WARNA [C]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmSA5oNf42IQYfso_RaLEsiArn_MQWLgggwGbzJx0E-6S.png" group-title="MALAYSIA",ASTRO WARNA [C]
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941609&extension=ts&play_token=1kEm8DbZmS
+#EXTINF:-1 xui-id="64" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT8czAKos6gyD-7fuSJIHa4M.png" group-title="MALAYSIA",TV1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711
+https://aqfadtv.xyz/live/tv1/index.mpd
 
-#EXTINF:-1 xui-id="227" tvg-id="AstroRia" tvg-name="ASTRO RIA [C]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmZ2wBbXfqO_vlwalTWBYXc1z0z3eKgeHskQUzk-dv9N1.png" group-title="MALAYSIA",ASTRO RIA [C]
-http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/420464.m3u8
+#EXTINF:-1 xui-id="60" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_m-Gz6ajBI0zarwiDvdvo_.png" group-title="MALAYSIA",TV2
+https://d25tgymtnqzu8s.cloudfront.net:443/smil:tv2/chunklist_b2496000_slENG.m3u8?id=1
+
+#EXTINF:-1 xui-id="65" tvg-id="TV3" tvg-name="TV3" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_-3Y_h3omn-uGPZPsjmOex.png" group-title="MALAYSIA",TV3
+https://live-sg1.global.ssl.fastly.net:443/live-hls/tonton1_720p/index.m3u8
+
+#EXTINF:-1 xui-id="65" tvg-id="TV3" tvg-name="TV3 [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_-3Y_h3omn-uGPZPsjmOex.png" group-title="MALAYSIA",TV3 [B]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/ 
+https://aqfadtv.xyz/live/tv3/index.mpd
+
+#EXTINF:-1 xui-id="1504" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT8O4kpThciy8aQ_YzfjVPBw.png" group-title="MALAYSIA",TV6
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/live/haji/haji/4138.m3u8
+
+#EXTINF:-1 xui-id="6382" tvg-id="8TV" tvg-name="TV8" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT8Z_EPZHd4vQxkPMFvxgAo-.png" group-title="MALAYSIA",TV8
+https://live-sg1.global.ssl.fastly.net:443/live-hls/tonton3_720p/index.m3u8
+
+#EXTINF:-1 xui-id="1495" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_Jh3ihyVfFVpxXGeKflMEL.png" group-title="MALAYSIA",TV9
+https://live-sg1.global.ssl.fastly.net:443/live-hls/tonton4_720p/index.m3u8
+
+#EXTINF:-1 xui-id="1517" tvg-id="TVS" tvg-name="TVS" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_sPgxf7U63bI0Qj-wrnmIQ.png" group-title="MALAYSIA",TVS
+https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
+
+#EXTINF:-1 tvg-id="BOO" tvg-name="Astro BOO (M)" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4KcUIX662ElHI-uIawCwel31ByPydgfb7gc31PpA7YNG.png" group-title="MALAYSIA",Astro BOO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/manifest.mpd
+
 
 ###################################### UNIFI #####################################
 
