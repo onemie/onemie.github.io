@@ -48,7 +48,7 @@ http://149.18.85.131:80/live/8059765630/3322606439/191900.m3u8
 #EXTVLCOPT:http-user-agent=ffkyou
 http://w.nasvpn.xyz:8080/live/haji/haji/175.m3u8
 
-#EXTINF:-1 xui-id="1511" tvg-id="AstroPrima" tvg-name="ASTRO PRIMA" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmdygDXBGm-IuVhXkY63mg23c4vJd6ZRaHAStVueDc6Nj.png" group-title="https://i.ibb.co/kGc2hrq/OneGOv1.png",ASTRO PRIMA
+#EXTINF:-1 xui-id="1511" tvg-id="AstroPrima" tvg-name="ASTRO PRIMA" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmdygDXBGm-IuVhXkY63mg23c4vJd6ZRaHAStVueDc6Nj.png" group-title="MALAYSIA",ASTRO PRIMA
 #EXTVLCOPT:http-user-agent=ffkyou
 http://w.nasvpn.xyz:8080/live/haji/haji/176.m3u8
 
