@@ -14,12 +14,8 @@
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1113
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
-
 #EXTINF:-1 xui-id="8" tvg-id="AstroAwani" tvg-name="ASTRO AWANI" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4OVKYfgn4lnOChsfsGBzSagyCQpF8MBL91JqaNo57mxS.png" group-title="NEWS",ASTRO AWANI
 https://link.nxtdns.tech:443/play/hnHfMWF6SSwSlaNIWcsO_h8aW6hgb4Qs-gHacGjhDoo
-
-#EXTINF:-1 xui-id="1426" tvg-id="AstroWarna" tvg-name="AL-HIJRAH" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmSA5oNf42IQYfso_RaLEsiArn_MQWLgggwGbzJx0E-6S.png" group-title="MALAYSIA",ASTRO WARNA
-http://149.18.85.131:80/live/8059765630/3322606439/191900.m3u8
 
 #EXTINF:-1 xui-id="1461" tvg-id="AwesomeTV" tvg-name="AWESOME TV" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbfqpJbNaTNL4OYbasJtzQCXYg6EWzbwHDSGio4xNd66.png" group-title="MALAYSIA",AWESOME TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -130,17 +126,6 @@ https://nxanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTINF:0 tvg-id="="Trans7.id" tvg-name="Trans 7" tvg-url="https://yamcode.com/raw/trans7-guide" tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png" group-title="INDONESIA",Trans 7
 https://nxanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id="BeritaSatu.id" tvg-name="Berita Satu" tvg-url="http://www.useetv.com" tvg-logo="https://i.ibb.co/VCsvKyP/wry.png" group-title="INDONESIA",Berita Satu
-https://nxanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id="IDXChannel.id" tvg-name="IDX" tvg-url="http://www.useetv.com" tvg-logo="https://i.ibb.co/kGc2hrq/Pics-Art-02-18-05-21-58.png" group-title="INDONESIA",IDX
-https://nxanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
-
 ####################################### MOVIES ##########################################
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png",Cinemachi
@@ -177,10 +162,6 @@ https://anevia114.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertain
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:-1 tvg-id="HitsMovies.sg" tvg-name="HITS Movies" tvg-logo="https://i.ibb.co/d7hB8xd/csw.png" group-title="MOVIES",HITS Movies
 https://nxanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
-
-#EXTINF:-1  tvg-id="useephoto" group-title="MOVIES" tvg-logo="https://i.imgur.com/drcIzRz.png",Usee Prime
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
@@ -540,9 +521,6 @@ https://nxanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="ONE" tvg-name="" tvg-logo="https://i.ibb.co/b6VfXKX/ONE.png" group-title="KOREA",SONY One
 https://nxanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-
-#EXTINF:-1  tvg-id="ext" group-title="KOREA" tvg-logo="https://i.ibb.co/x64s18m/GEM.png", Sony GEM (FMX)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/gem.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
