@@ -21,18 +21,6 @@ https://link.nxtdns.tech:443/play/hnHfMWF6SSwSlaNIWcsO_h8aW6hgb4Qs-gHacGjhDoo
 #EXTINF:-1 xui-id="1426" tvg-id="AstroWarna" tvg-name="AL-HIJRAH" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmSA5oNf42IQYfso_RaLEsiArn_MQWLgggwGbzJx0E-6S.png" group-title="MALAYSIA",ASTRO WARNA
 http://149.18.85.131:80/live/8059765630/3322606439/191900.m3u8
 
-#EXTINF:-1 xui-id="1512" tvg-id="AstroOasis" tvg-name="ASTRO OASIS" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmVb0rXxsGqcuGxFyBWVLMPFTh_DBpgbSvS04Y4jvzxZ5.png" group-title="MALAYSIA",ASTRO OASIS
-#EXTVLCOPT:http-user-agent=ffkyou
-http://w.nasvpn.xyz:8080/live/haji/haji/175.m3u8
-
-#EXTINF:-1 xui-id="1511" tvg-id="AstroPrima" tvg-name="ASTRO PRIMA" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmdygDXBGm-IuVhXkY63mg23c4vJd6ZRaHAStVueDc6Nj.png" group-title="MALAYSIA",ASTRO PRIMA
-#EXTVLCOPT:http-user-agent=ffkyou
-http://w.nasvpn.xyz:8080/live/haji/haji/176.m3u8
-
-#EXTINF:-1 xui-id="1509" tvg-id="AstroRia" tvg-name="ASTRO RIA [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmZ2wBbXfqO_vlwalTWBYXc1z0z3eKgeHskQUzk-dv9N1.png" group-title="MALAYSIA",ASTRO RIA
-#EXTVLCOPT:http-user-agent=ffkyou
-http://w.nasvpn.xyz:8080/live/haji/haji/11.m3u8
-
 #EXTINF:-1 xui-id="1461" tvg-id="AwesomeTV" tvg-name="AWESOME TV" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbfqpJbNaTNL4OYbasJtzQCXYg6EWzbwHDSGio4xNd66.png" group-title="MALAYSIA",AWESOME TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211/
