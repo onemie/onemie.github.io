@@ -451,22 +451,6 @@ https://nxanv-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 #EXTINF:0 tvg-id="NHKWorldPremium.jp" tvg-name="" tvg-logo="https://i.imgur.com/FjjQTgY.png" group-title="News", NHK World Premium
 https://nxanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
-######################################### EDUCATION ###########################################
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id="Besmart.id" tvg-name=" Besmart" tvg-logo="https://static.visionplus.id/images/channel/bb3aa08a-680.png" group-title="Education",Besmart
-https://nxanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
-
-#EXTINF:-1  tvg-id="TVEdukasi.id" group-title="Education" tvg-logo="https://pusdatin.kemdikbud.go.id/wp-content/uploads/2018/07/logo-tve-2.png",TV Edukasi
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
-
-#EXTINF:-1  tvg-id="RuangTrampil.id" group-title="Education" tvg-logo="https://bdg-indihome.com/assets/images/channels/IndiHome-Channel-Essential/Local/ruang-trampil-HD.png",Ruang Trampil
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
-
-#EXTINF:-1  tvg-id="TVEdukasi.id" group-title="Education" tvg-logo="https://i.imgur.com/GFOpaPo.png",Learning & Knowledge
-http://rr.dens.tv/h/h97/index.m3u8
-
 ######################################## KOREA ##########################################
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
