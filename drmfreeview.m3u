@@ -473,4 +473,30 @@ https://nxanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:0 tvg-id="FMN.id" tvg-name="FMN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fmn.jpg" group-title="KOREA",FMN
 https://nxanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
+######################################## 11-6 ###############################################
+
+#EXTINF: -1 tvg-id="AstroAEC" tvg-name="AEC" tvg-logo="https://i.ibb.co/hHr5H0c/aec.png" group-title="XSTRO(11am-6pm)", AEC
+http://iptv12k.com:35461/testmy167/12345/4341
+#EXTINF: -1 tvg-id="AstroCeria" tvg-name="Ceria" tvg-logo="https://i.imgur.com/Mg7OSZZ.png" group-title="XSTRO(11am-6pm)", Ceria
+http://iptv12k.com:35461/testmy167/12345/20064
+#EXTINF: -1 tvg-id="AstroAura" tvg-name="Aura" tvg-logo="https://i.ibb.co/D4YHLf6/58T.png" group-title="XSTRO(11am-6pm)", Aura
+http://iptv12k.com:35461/testmy167/12345/3949
+#EXTINF: -1 tvg-id="Boo" tvg-name="Boo" tvg-logo="https://i.imgur.com/XX7nfoF.png" group-title="XSTRO(11am-6pm)", Boo
+http://iptv12k.com:35461/testmy167/12345/722
+#EXTINF: -1 tvg-id="AstroOasis" tvg-name="Oasis" tvg-logo="https://i.ibb.co/b2JQ7g9/oas.png" group-title="XSTRO(11am-6pm)", Oasis
+http://iptv12k.com:35461/testmy167/12345/732
+#EXTINF: -1 tvg-id="AstroRania" tvg-name="Rania" tvg-logo="https://i.ibb.co/y0cGSsg/ASd.png" group-title="XSTRO(11am-6pm)", Rania
+http://iptv12k.com:35461/testmy167/12345/728
+#EXTINF: -1 tvg-id="AstroRia" tvg-name="Ria" tvg-logo="https://i.ibb.co/v4WwqTH/NHY.png" group-title="XSTRO(11am-6pm)", Ria
+http://iptv12k.com:35461/testmy167/12345/735
+#EXTINF: -1 tvg-id="AstroPrima" tvg-name="Prima" tvg-logo="https://i.ibb.co/7VVHjv3/saf.png" group-title="XSTRO(11am-6pm)", Prima
+http://iptv12k.com:35461/testmy167/12345/734
+#EXTINF: -1 tvg-id="AstroWarna" tvg-name="Warna" tvg-logo="https://i.ibb.co/4Z83c5n/WETYE.png" group-title="XSTRO(11am-6pm)", Warna
+http://iptv12k.com:35461/testmy167/12345/5075
+#EXTINF: -1 tvg-id="WarnerTV" tvg-name="Warna-B" tvg-logo="https://i.ibb.co/4Z83c5n/WETYE.png" group-title="XSTRO(11am-6pm)", Warna-B
+http://iptv12k.com:35461/testmy167/12345/733
+#EXTINF: -1 tvg-id="AstroCitra" tvg-name="Citra" tvg-logo="https://i.ibb.co/12wR714/hfgd.png" group-title="XSTRO(11am-6pm)", Citra
+http://iptv12k.com:35461/testmy167/12345/721
+#EXTINF: -1 tvg-id="AwesomeTV" tvg-name="Awesome TV" tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="XSTRO(11am-6pm)", Awesome TV
+http://iptv12k.com:35461/testmy167/12345/743
 
