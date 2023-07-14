@@ -52,10 +52,12 @@ https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 https://aqfadtv.xyz/live/tv1/index.mpd
 
 #EXTINF:-1 xui-id="60" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_m-Gz6ajBI0zarwiDvdvo_.png" group-title="MALAYSIA",TV2
-https://d25tgymtnqzu8s.cloudfront.net:443/smil:tv2/chunklist_b2496000_slENG.m3u8?id=1
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/live/haji/haji/5.ts
 
 #EXTINF:-1 xui-id="65" tvg-id="TV3" tvg-name="TV3" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_-3Y_h3omn-uGPZPsjmOex.png" group-title="MALAYSIA",TV3
-https://live-sg1.global.ssl.fastly.net:443/live-hls/tonton1_720p/index.m3u8
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/live/haji/haji/5149.ts
 
 #EXTINF:-1 xui-id="65" tvg-id="TV3" tvg-name="TV3 [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_-3Y_h3omn-uGPZPsjmOex.png" group-title="MALAYSIA",TV3 [B]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
