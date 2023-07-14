@@ -500,3 +500,12 @@ http://iptv12k.com:35461/testmy167/12345/721
 #EXTINF: -1 tvg-id="AwesomeTV" tvg-name="Awesome TV" tvg-logo="https://i.ibb.co/XFXgHbR/sd.png" group-title="XSTRO(11am-6pm)", Awesome TV
 http://iptv12k.com:35461/testmy167/12345/743
 
+####################################### VOD ##########################################
+
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/gPbM0MK8CP8A174rmUwGsADNYKD.jpg" group-title="MOVIES", TRANSFORMERS: RISE OF THE BEAST 
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/movie/haji/haji/19352.mkv
+
+
+
+
