@@ -15,7 +15,7 @@
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
 #EXTINF:-1 xui-id="8" tvg-id="AstroAwani" tvg-name="ASTRO AWANI" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4OVKYfgn4lnOChsfsGBzSagyCQpF8MBL91JqaNo57mxS.png" group-title="NEWS",ASTRO AWANI
-https://link.nxtdns.tech:443/play/hnHfMWF6SSwSlaNIWcsO_h8aW6hgb4Qs-gHacGjhDoo
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/157478
 
 #EXTINF:-1 xui-id="1461" tvg-id="AwesomeTV" tvg-name="AWESOME TV" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbfqpJbNaTNL4OYbasJtzQCXYg6EWzbwHDSGio4xNd66.png" group-title="MALAYSIA",AWESOME TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -54,7 +54,7 @@ https://aqfadtv.xyz/live/tv1/index.mpd
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_m-Gz6ajBI0zarwiDvdvo_.png" group-title="MALAYSIA",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
 
-#EXTINF:-1 xui-id="60" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_m-Gz6ajBI0zarwiDvdvo_.png" group-title="MALAYSIA",TV2 [B]
+#EXTINF:-1 xui-id="60" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_m-Gz6ajBI0zarwiDvdvo_.png" group-title="MALAYSIA",TV2[B]
 #EXTVLCOPT:http-user-agent=ffkyou
 http://w.nasvpn.xyz:8080/live/haji/haji/5.ts
 
@@ -62,7 +62,7 @@ http://w.nasvpn.xyz:8080/live/haji/haji/5.ts
 #EXTVLCOPT:http-user-agent=ffkyou
 http://w.nasvpn.xyz:8080/live/haji/haji/5149.ts
 
-#EXTINF:-1 xui-id="65" tvg-id="TV3" tvg-name="TV3 [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_-3Y_h3omn-uGPZPsjmOex.png" group-title="MALAYSIA",TV3 [B]
+#EXTINF:-1 xui-id="65" tvg-id="TV3" tvg-name="TV3 [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_-3Y_h3omn-uGPZPsjmOex.png" group-title="MALAYSIA",TV3[B]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/ 
 https://aqfadtv.xyz/live/tv3/index.mpd
