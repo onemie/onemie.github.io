@@ -510,7 +510,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GegOzF0zchXGQATLScnLAQ","kid":"+vTWK7iY3lA0RsKPsaqSEA"}],"type":"temporary"} 
-#EXTINF:0 tvg-id="TVN" tvg-name="tvN" tvg-logo="https://i.ibb.co/zxZMRh1/TVN.png" group-title="KOREA",tvN [B] 
+#EXTINF:0 tvg-id="TVN" tvg-name="tvN" tvg-logo="https://i.ibb.co/zxZMRh1/TVN.png" group-title="KOREA",tvN B
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -596,4 +596,10 @@ http://w.nasvpn.xyz:8080/movie/haji/haji/19315.mkv
 #EXTVLCOPT:http-user-agent=ffkyou
 http://w.nasvpn.xyz:8080/movie/haji/haji/17248.mkv
 
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg" group-title="MOVIES", COCAINE BEAR (2023)
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/movie/haji/haji/17245.mkv
 
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg" group-title="MOVIES", THE FLASH (2023)
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/movie/haji/haji/19412.mkv
