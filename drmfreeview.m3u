@@ -26,7 +26,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_ott.mpd
 #EXTINF:-1 xui-id="30" tvg-id="BernamaTV" tvg-name="BERNAMA" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4PYa-ZVRQIlnjxOzANY2r0uN5Res_A1BQQ_9dDiBAcmp.png" group-title="NEWS",BERNAMA
 https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
 
-#EXTINF:-1 xui-id="1505" tvg-id="DidikTVKPM" tvg-name="DIDIKTV" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmQo5uNBwLYtfo6sa4DQP0UTVr8kV6kuj_ImAxB_fLIne.png" group-title="MALAYSIA",DIDIKTV
+#EXTINF:-1 xui-id="1505" tvg-id="DidikTVKPM" tvg-name="DIDIKTV" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmQo5uNBwLYtfo6sa4DQP0UTVr8kV6kuj_ImAxB_fLIne.png" group-title="MALAYSIA", TV7
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/ 
 https://aqfadtv.xyz/live/didiktvkpm/index.mpd
@@ -46,6 +46,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 #EXTINF:-1 xui-id="1437" tvg-id="OKEY" tvg-name="OKEY" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmVb0rXxsGqcuGxFyBWVLMPELWvWqYaLIjuTEC91sudG_.png" group-title="MALAYSIA",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yEdSMcCdwbY5iGl2tvx1dQ","kid":"YPICsWQH/t2ONpwyr1fdEA"}],"type":"temporary"} 
+#EXTINF:-1 xui-id="1437" tvg-id="OKEY" tvg-name="OKEY" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmVb0rXxsGqcuGxFyBWVLMPELWvWqYaLIjuTEC91sudG_.png" group-title="MALAYSIA",OKEY B
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
+
 #EXTINF:-1 xui-id="216" tvg-id="" tvg-name="RTB SUKMAINDERA" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmcoCYgiqX_bbO3lXR4__tQdOgc7QT9NOFuJU2WJ-IX41.png" group-title="MALAYSIA",RTB SUKMAINDERA
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
@@ -57,7 +65,7 @@ https://aqfadtv.xyz/live/tv1/index.mpd
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_m-Gz6ajBI0zarwiDvdvo_.png" group-title="MALAYSIA",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
 
-#EXTINF:-1 xui-id="60" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_m-Gz6ajBI0zarwiDvdvo_.png" group-title="MALAYSIA",TV2[B] 
+#EXTINF:-1 xui-id="60" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_m-Gz6ajBI0zarwiDvdvo_.png" group-title="MALAYSIA",TV2 B
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5027/ 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
@@ -66,7 +74,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 #EXTVLCOPT:http-user-agent=ffkyou
 http://w.nasvpn.xyz:8080/live/haji/haji/5149.ts
 
-#EXTINF:-1 xui-id="65" tvg-id="TV3" tvg-name="TV3 [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_-3Y_h3omn-uGPZPsjmOex.png" group-title="MALAYSIA",TV3[B]
+#EXTINF:-1 xui-id="65" tvg-id="TV3" tvg-name="TV3 [B]" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_-3Y_h3omn-uGPZPsjmOex.png" group-title="MALAYSIA",TV3 B
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/ 
 https://aqfadtv.xyz/live/tv3/index.mpd
