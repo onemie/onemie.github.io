@@ -27,7 +27,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_ott.mpd
 https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
 
 #EXTINF:-1 xui-id="1505" tvg-id="DidikTVKPM" tvg-name="DIDIKTV" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmQo5uNBwLYtfo6sa4DQP0UTVr8kV6kuj_ImAxB_fLIne.png" group-title="MALAYSIA",DIDIKTV
-https://live-sg1.global.ssl.fastly.net:443/live-hls/tonton2_720p/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv7/ 
+https://aqfadtv.xyz/live/tv7/index.mpd
+
 
 #EXTINF:-1 tvg-id="AstroAura" tvg-name="Astro Aura" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbfqpJbNaTNL4OYbasJtzQCrBW9OVOIPeHJwX5zlm_Yf.png" group-title="MALAYSIA",Astro Aura
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -73,10 +76,16 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 http://w.nasvpn.xyz:8080/live/haji/haji/4138.m3u8
 
 #EXTINF:-1 xui-id="6382" tvg-id="8TV" tvg-name="TV8" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT8Z_EPZHd4vQxkPMFvxgAo-.png" group-title="MALAYSIA",TV8
-https://live-sg1.global.ssl.fastly.net:443/live-hls/tonton3_720p/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv8/ 
+https://aqfadtv.xyz/live/tv8/index.mpd
+
 
 #EXTINF:-1 xui-id="1495" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_Jh3ihyVfFVpxXGeKflMEL.png" group-title="MALAYSIA",TV9
-https://live-sg1.global.ssl.fastly.net:443/live-hls/tonton4_720p/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/ 
+https://aqfadtv.xyz/live/tv9/index.mpd
+
 
 #EXTINF:-1 xui-id="1517" tvg-id="TVS" tvg-name="TVS" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_sPgxf7U63bI0Qj-wrnmIQ.png" group-title="MALAYSIA",TVS
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
