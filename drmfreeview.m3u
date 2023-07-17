@@ -297,9 +297,8 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_prim
 https://webudit.cdnhks.lol/lb/premium124/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="SPORTS",ASSP 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9988
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9988/default.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36 
+https://ddy1.cdnhks.lol/ddy1/premium125/tracks-v1a1/mono.m3u8|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="SPORTS", ASSP4
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -370,12 +369,21 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Arena" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4MiC6PYsmlkHqVF8uFDZXsOtVuYe8lLszbndb27-StX9.png" group-title="SPORTS",Arena
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroArena2" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4MiC6PYsmlkHqVF8uFDZXsOtVuYe8lLszbndb27-StX9.png" group-title="SPORTS",Arena 2 A
+#EXTINF:-1 tvg-id="AstroArena2" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4MiC6PYsmlkHqVF8uFDZXsOtVuYe8lLszbndb27-StX9.png" group-title="SPORTS",Arena 2
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY4OTc2NTA5MywiaWF0IjoxNjg5MTYxMDkzfQ.fvND4TkGCZeUstbKbtlQTzenlNdyNcLPoTYJ6dVrfL0"} 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/arena2/ 
 https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 
+#EXTINF:-1 tvg-logo="https://iili.io/1NzIte.png" group-title="SPORTS",SPOTV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/MkG2hg.png" group-title="SPORTS",SPOTV2 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5079 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default.mpd
 
 ####################################### KIDZ ##########################################
 
