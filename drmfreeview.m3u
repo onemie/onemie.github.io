@@ -297,7 +297,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntert
 
 
 #EXTINF:-1 xui-id="1436" tvg-id="TVSUKAN" tvg-name="SUKAN RTM" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4EztDL4SwrUD5qIe1xCHAovcv-DSAphZ4ZhOwJY_DHKa.png" group-title="SPORTS",SUKAN RTM
-
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="SPORTS",ASSP 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
