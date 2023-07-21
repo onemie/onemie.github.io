@@ -46,13 +46,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
 #EXTINF:-1 xui-id="1437" tvg-id="OKEY" tvg-name="OKEY" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmVb0rXxsGqcuGxFyBWVLMPELWvWqYaLIjuTEC91sudG_.png" group-title="MALAYSIA",OKEY
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
+##https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yEdSMcCdwbY5iGl2tvx1dQ","kid":"YPICsWQH/t2ONpwyr1fdEA"}],"type":"temporary"} 
-#EXTINF:-1 xui-id="1437" tvg-id="OKEY" tvg-name="OKEY" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmVb0rXxsGqcuGxFyBWVLMPELWvWqYaLIjuTEC91sudG_.png" group-title="MALAYSIA",OKEY B
+#EXTINF:-1 xui-id="1437" tvg-id="OKEY" tvg-name="OKEY" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmVb0rXxsGqcuGxFyBWVLMPELWvWqYaLIjuTEC91sudG_.png" group-title="MALAYSIA",OKEY
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 
@@ -62,9 +62,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 https://aqfadtv.xyz/live/tv1/index.mpd
 
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_m-Gz6ajBI0zarwiDvdvo_.png" group-title="MALAYSIA",TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
+##https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
 
-#EXTINF:-1 xui-id="60" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_m-Gz6ajBI0zarwiDvdvo_.png" group-title="MALAYSIA",TV2 B
+#EXTINF:-1 xui-id="60" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_m-Gz6ajBI0zarwiDvdvo_.png" group-title="MALAYSIA",TV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5027/ 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
