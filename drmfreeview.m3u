@@ -607,51 +607,51 @@ http://iptv12k.com:35461/testmy167/12345/743
 
 ####################################### VOD ##########################################
 
-#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/oTiwAj5cOLzwZgYcxbXK6NSkLSm.jpg" group-title="MOVIES", POLIS EVO (2015)
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/oTiwAj5cOLzwZgYcxbXK6NSkLSm.jpg" group-title="MALAY", POLIS EVO (2015)
 #EXTVLCOPT:http-user-agent=ffkyou
 http://w.nasvpn.xyz:8080/movie/haji/haji/19336.mkv
 
-#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/gPmfJW5Q77NJWKEAhDeAIMC1wby.jpg" group-title="MOVIES", POLIS EVO 2 (2018)
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/gPmfJW5Q77NJWKEAhDeAIMC1wby.jpg" group-title="MALAY", POLIS EVO 2 (2018)
 #EXTVLCOPT:http-user-agent=ffkyou
 http://w.nasvpn.xyz:8080/movie/haji/haji/19338.mp4
 
-#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/eHt8LAmNbuP7rhGWtGyFSLNEdla.jpg" group-title="MOVIES", POLIS EVO 3 (2023) TAYANGAN PERDANA
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/eHt8LAmNbuP7rhGWtGyFSLNEdla.jpg" group-title="MALAY", POLIS EVO 3 (2023) TAYANGAN PERDANA
 #EXTVLCOPT:http-user-agent=ffkyou
 http://w.nasvpn.xyz:8080/movie/haji/haji/19237.mkv
 
-#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/jjShNPbd3ekmU85WkiPbPqvUcOD.jpg" group-title="MOVIES", REMP-iT 2 (2022)
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/jjShNPbd3ekmU85WkiPbPqvUcOD.jpg" group-title="MALAY", REMP-iT 2 (2022)
 #EXTVLCOPT:http-user-agent=ffkyou
 http://w.nasvpn.xyz:8080/movie/haji/haji/16938.mp4
 
-#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/oAI8whpvqWxxucVGJdDiGOfCjMB.jpg" group-title="MOVIES", PASKAL (2018)
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/oAI8whpvqWxxucVGJdDiGOfCjMB.jpg" group-title="MALAY", PASKAL (2018)
 #EXTVLCOPT:http-user-agent=ffkyou
 http://w.nasvpn.xyz:8080/movie/haji/haji/16400.mkv
 
-#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/kmkgJWcqePytq2Nx49qjko4OM1l.jpg" group-title="MOVIES", ROMBONGAN CIK KIAH KE AJL (2023)
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/kmkgJWcqePytq2Nx49qjko4OM1l.jpg" group-title="MALAY", ROMBONGAN CIK KIAH KE AJL (2023)
 #EXTVLCOPT:http-user-agent=ffkyou
 http://w.nasvpn.xyz:8080/movie/haji/haji/17160.mp4
 
-#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/k5SoO75feHyoRR7C9b33o26wYF7.jpg" group-title="MOVIES", PONTIANAK 100KG (2023)
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/k5SoO75feHyoRR7C9b33o26wYF7.jpg" group-title="MALAY", PONTIANAK 100KG (2023)
 #EXTVLCOPT:http-user-agent=ffkyou
 http://w.nasvpn.xyz:8080/movie/haji/haji/18658.mp4
 
-#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/4V23FNRDjMZ0PwQJWjeHCbTtEro.jpg" group-title="MOVIES", SATU HARI SEBELUM RAYA (2023)
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/4V23FNRDjMZ0PwQJWjeHCbTtEro.jpg" group-title="MALAY", SATU HARI SEBELUM RAYA (2023)
 #EXTVLCOPT:http-user-agent=ffkyou
 http://w.nasvpn.xyz:8080/movie/haji/haji/18777.mkv
 
-#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/4V23FNRDjMZ0PwQJWjeHCbTtEro.jpg" group-title="MOVIES", JUANG (2022)
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/qtNlKI2qlPRqOuxx1qSCn24Hhyv.jpg" group-title="MALAY", JUANG (2022)
 #EXTVLCOPT:http-user-agent=ffkyou
 http://w.nasvpn.xyz:8080/movie/haji/haji/19205.mkv
 
-#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/puPjydMJHMNmSPMAz6RkwzGU3Ql.jpg" group-title="MOVIES", JENGKA (2015)
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/puPjydMJHMNmSPMAz6RkwzGU3Ql.jpg" group-title="MALAY", JENGKA (2015)
 #EXTVLCOPT:http-user-agent=ffkyou
 http://w.nasvpn.xyz:8080/movie/haji/haji/17245.mkv
 
-#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/xutObnEEt0SMMjEodhRBZnDi7rj.jpg" group-title="MOVIES", KL GANGSTER (2011)
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/xutObnEEt0SMMjEodhRBZnDi7rj.jpg" group-title="MALAY", KL GANGSTER (2011)
 #EXTVLCOPT:http-user-agent=ffkyou
 http://w.nasvpn.xyz:8080/movie/haji/haji/16401.mkv
 
-#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/3gT9VyxUZ2ue3MUsx4R3snHXVdw.jpg" group-title="MOVIES", KL GANGSTER (2018)
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/3gT9VyxUZ2ue3MUsx4R3snHXVdw.jpg" group-title="MALAY", KL GANGSTER (2018)
 #EXTVLCOPT:http-user-agent=ffkyou
 http://w.nasvpn.xyz:8080/movie/haji/haji/16402.mkv
 
