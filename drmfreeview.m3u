@@ -78,7 +78,7 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #EXTINF:-1 xui-id="65" tvg-id="TV3" tvg-name="TV3 (B)" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_-3Y_h3omn-uGPZPsjmOex.png" group-title="MALAYSIA",TV3 (B)
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+##https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 xui-id="1504" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT8O4kpThciy8aQ_YzfjVPBw.png" group-title="MALAYSIA",TV6
 #EXTVLCOPT:http-user-agent=
@@ -669,4 +669,26 @@ http://w.nasvpn.xyz:8080/movie/haji/haji/13897.mkv
 #EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg" group-title="ENGLISH", PREY (2022)
 #EXTVLCOPT:http-user-agent=ffkyou
 http://w.nasvpn.xyz:8080/movie/haji/haji/13830.mkv
+
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/sv1xJUazXeYqALzczSZ3O6nkH75.jpg" group-title="ENGLISH", WAKANDA FOREVER (2022)
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/movie/haji/haji/16806.mkv
+
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg" group-title="ENGLISH", BLACK ADAM (2022)
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/movie/haji/haji/16596.mkv
+
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/kuf6dutpsT0vSVehic3EZIqkOBt.jpg" group-title="KIDS", PUSS IN BOOTS: THE LAST WISH (2022)
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/movie/haji/haji/16860.mkv
+
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg" group-title="KIDS", MINIONS: THE RISE OF GRU (2022)
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/movie/haji/haji/13811.mkv
+
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg" group-title="KIDS", TURNING RED (2022)
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/movie/haji/haji/7920.mkv
+
+
 
