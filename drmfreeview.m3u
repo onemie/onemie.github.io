@@ -607,25 +607,25 @@ http://iptv12k.com:35461/testmy167/12345/743
 
 ####################################### VOD ##########################################
 
-#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/gPbM0MK8CP8A174rmUwGsADNYKD.jpg" group-title="MOVIES", TRANSFORMERS: RISE OF THE BEAST (2023)
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/oTiwAj5cOLzwZgYcxbXK6NSkLSm.jpg" group-title="MOVIES", POLIS EVO (2015)
 #EXTVLCOPT:http-user-agent=ffkyou
-http://w.nasvpn.xyz:8080/movie/haji/haji/19352.mkv
+http://w.nasvpn.xyz:8080/movie/haji/haji/19336.mkv
 
-#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/fiVW06jE7z9YnO4trhaMEdclSiC.jpg" group-title="MOVIES", FAST X (2023)
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/gPmfJW5Q77NJWKEAhDeAIMC1wby.jpg" group-title="MOVIES", POLIS EVO 2 (2018)
 #EXTVLCOPT:http-user-agent=ffkyou
-http://w.nasvpn.xyz:8080/movie/haji/haji/19235.mkv
+http://w.nasvpn.xyz:8080/movie/haji/haji/19338.mp4
 
-#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/rzRb63TldOKdKydCvWJM8B6EkPM.jpg" group-title="MOVIES", 65 (2023)
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/eHt8LAmNbuP7rhGWtGyFSLNEdla.jpg" group-title="MOVIES", POLIS EVO 3 (2023) TAYANGAN PERDANA
 #EXTVLCOPT:http-user-agent=ffkyou
-http://w.nasvpn.xyz:8080/movie/haji/haji/17231.mkv
+http://w.nasvpn.xyz:8080/movie/haji/haji/19237.mkv
 
 #EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg" group-title="MOVIES", ANT MAN & THE WASP: QUANTUMANIA (2023)
 #EXTVLCOPT:http-user-agent=ffkyou
 http://w.nasvpn.xyz:8080/movie/haji/haji/17164.mkv
 
-#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg" group-title="MOVIES", AVATAR: WAY OF WATER (2022) BluRay
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/oAI8whpvqWxxucVGJdDiGOfCjMB.jpg" group-title="MOVIES", PASKAL (2018)
 #EXTVLCOPT:http-user-agent=ffkyou
-http://w.nasvpn.xyz:8080/movie/haji/haji/16895.mkv
+http://w.nasvpn.xyz:8080/movie/haji/haji/16400.mkv
 
 #EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg" group-title="MOVIES", EXTRACTION 2 (2023)
 #EXTVLCOPT:http-user-agent=ffkyou
