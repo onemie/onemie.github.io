@@ -120,6 +120,9 @@ EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png" group-title="MALAYSIA"
 #EXTVLCOPT:http-referrer=https://www.youtube.com 
 https://github.com/AqFad2811/randomlivefromyt2/raw/main/SukeTV.m3u8
 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Oj30_OSCTbA/T__hmGh2tvI/AAAAAAAACWg/d7WUGwrM7ag/w1200-h630-p-k-no-nu/tvikim-logo.png" group-title="MALAYSIA",TV IKIM 
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+
 ###################################### UNIFI #####################################
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310" group-title="MYTV" , DUNIA SINEMA HD 
