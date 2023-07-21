@@ -678,6 +678,14 @@ http://w.nasvpn.xyz:8080/movie/haji/haji/16806.mkv
 #EXTVLCOPT:http-user-agent=ffkyou
 http://w.nasvpn.xyz:8080/movie/haji/haji/16596.mkv
 
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/9z4jRr43JdtU66P0iy8h18OyLql.jpg" group-title="ENGLISH", TROLL (2022)
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/movie/haji/haji/16628.mkv
+
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/62HCnUTziyWcpDaBO2i1DX17ljH.jpg" group-title="ENGLISH", TOP GUN: MAVERICK (2022)
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/movie/haji/haji/13839.mkv
+
 #EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/kuf6dutpsT0vSVehic3EZIqkOBt.jpg" group-title="KIDS", PUSS IN BOOTS: THE LAST WISH (2022)
 #EXTVLCOPT:http-user-agent=ffkyou
 http://w.nasvpn.xyz:8080/movie/haji/haji/16860.mkv
