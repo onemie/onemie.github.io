@@ -655,3 +655,18 @@ http://w.nasvpn.xyz:8080/movie/haji/haji/16401.mkv
 #EXTVLCOPT:http-user-agent=ffkyou
 http://w.nasvpn.xyz:8080/movie/haji/haji/16402.mkv
 
+
+
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/cBFQsU1LDBEOl0Ik0cygeB6wCLE.jpg" group-title="ENGLISH", APOCALYPTO (2006)
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/movie/haji/haji/13471.mkv
+
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/v28T5F1IygM8vXWZIycfNEm3xcL.jpg" group-title="ENGLISH", FALL (2022)
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/movie/haji/haji/13897.mkv
+
+
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w260_and_h390_bestv2/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg" group-title="ENGLISH", PREY (2022)
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/movie/haji/haji/13830.mkv
+
