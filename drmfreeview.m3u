@@ -78,8 +78,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 https://aqfadtv.xyz/live/tv3/index.mpd
 
 #EXTINF:-1 xui-id="1504" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT8O4kpThciy8aQ_YzfjVPBw.png" group-title="MALAYSIA",TV6
-#EXTVLCOPT:http-user-agent=ffkyou
-http://w.nasvpn.xyz:8080/live/haji/haji/4138.m3u8
+#EXTVLCOPT:http-user-agent=
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 xui-id="6382" tvg-id="8TV" tvg-name="TV8" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT8Z_EPZHd4vQxkPMFvxgAo-.png" group-title="MALAYSIA",TV8
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
