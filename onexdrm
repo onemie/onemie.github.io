@@ -312,136 +312,137 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default.mpd
 
 ########################################################## MEDIACORP ##########################################################################################
 
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",Suria 
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-title="SINGAPORE", Suria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/d8ed7731-7bc7-4993-9f9d-c98ba9291b5c
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-title="SINGAPORE", Suria 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png",SURIA
 #https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
 ########################################################### RTB GO ############################################################################################
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png", RTB Sukmaindera HD
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-title="BRUNEI", RTB Sukmaindera HD
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png", RTB Aneka HD
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png" group-title="BRUNEI", RTB Aneka HD
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CGlzsD5.png", RTB Go Live HD
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png" group-title="BRUNEI", RTB Go Live HD
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 ########################################################## CHINESE ############################################################################################
 
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="CHINESE", iQIYI HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d9mO1x23Ukwnh1oJqXX55g","kid":"fvfpE86FoRMbJwNgaRaaEA"}],"type":"temporary"}
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png", iQIYI HD
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="CHINESE", iQIYI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png",iQIYI HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default.mpd
 
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_Magic.png" group-title="CHINESE", TVB Magic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49a10d0610e700b4b20dd1c91a2fc310:eb5b2cec485514216f7c25d102ab8a13
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_Magic.png",TVB Magic
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5107/default.mpd
 
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="Celestial" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-title="CHINESE", Celestial Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png",Celestial Movies HD
 https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="Celestial" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-title="CHINESE", Celestial Movies 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png",Celestial Movies HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default.mpd
 
+#EXTINF:-1 xui-id="" tvg-id="CCM" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="CHINESE", CCM 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/100
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/CCM_v1.png",CCM
 https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd
 
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="CCM" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="CHINESE", CCM 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCM_v1.png",CCM
 https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd
-
-
 
 
 ###################################################################### KOREAN #################################################################################
 
+
+#EXTINF:-1 xui-id="" tvg-id="KBSWorld" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-title="KOREA", KBS World 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6txiarlZJV96uIHAPTBv4g","kid":"aSlQ05hpySr5qd3qRTwNEA"}],"type":"temporary"}
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/KBSW_v1.png",KBS World
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
 
+#EXTINF:-1 xui-id="" tvg-id="KBSWorld" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-title="KOREA", KBS World 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/KBSW_v1.png",KBS World
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default.mpd
 
+#EXTINF:-1 xui-id="" tvg-id="ONE" tvg-name="" tvg-logo="https://aqfadtv.xyz/logos/ONE.png" group-title="KOREA", One HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Red+aounZ7Y8rP2wHvKsKQ","kid":"2P45jHkGUXP6l4jyJgVlEA"}],"type":"temporary"}
-EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/ONE.png",ONE
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
 
+#EXTINF:-1 xui-id="" tvg-id="ONE" tvg-name="" tvg-logo="https://aqfadtv.xyz/logos/ONE.png" group-title="KOREA", One HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
 #EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/ONE.png",ONE
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default.mpd
 
+#EXTINF:-1 xui-id="" tvg-id="K-Plus" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png" group-title="KOREA", K Plus HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"taOoAISBIMhDrg+mjAnCYQ","kid":"qkiyi9cj+RIUiH327Z+tEA"}],"type":"temporary"}
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png",K Plus
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 
+#EXTINF:-1 xui-id="" tvg-id="K-Plus" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png" group-title="KOREA", K Plus HD 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png",K Plus
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default.mpd
 
+#EXTINF:-1 xui-id="" tvg-id="TVN" tvg-name="" tvg-logo="https://aqfadtv.xyz/logos/tvN.png" group-title="KOREA", tVN HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GegOzF0zchXGQATLScnLAQ","kid":"+vTWK7iY3lA0RsKPsaqSEA"}],"type":"temporary"}
-EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/tvN.png",tvN
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 
+#EXTINF:-1 xui-id="" tvg-id="TVN" tvg-name="" tvg-logo="https://aqfadtv.xyz/logos/tvN.png" group-title="KOREA", tVN HD 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=faf4d62bb898de503446c28fb1aa9210:19e80ecc5d337215c64004cb49c9cb01
 #EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/tvN.png",tvN
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default.mpd
 
+#EXTINF:-1 xui-id="" tvg-id="TVNMovies" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="KOREA", tVN Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0SzOuvu6KlNdiKMIf4hCUg","kid":"jiaciqMq1364MGgxI0PWEA"}],"type":"temporary"}
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
+#EXTINF:-1 xui-id="" tvg-id="TVNMovies" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="KOREA", tVN Movies 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
 
 
