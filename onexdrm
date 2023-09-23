@@ -4,9 +4,9 @@
 
 ########################################################################################################################################
 
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/DemiNegaraku.png" group-title="MALAYSIA", DEMI NEGARAKU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cfcff10e7bf34c5e65a8619c034dc10:311a12c7353cfb13923efe9e340ce724
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/DemiNegaraku.png",Demi Negaraku
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5120/default.mpd
 
 
@@ -17,40 +17,37 @@ https://onedrive-mastrolive.vercel.app/api/raw/?path=/Movies/MalayMovies/Polis.E
 
 ################################################################ MY FREEVIEW ##################################################################################
 
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1
+#EXTINF:-1 xui-id="" tvg-id="TV1" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="MALAYSIA", TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
+#EXTINF:-1 xui-id="" tvg-id="TV1" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png" group-title="MALAYSIA", TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png",TV1
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default.mpd
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2
+#EXTINF:-1 xui-id="" tvg-id="TV2" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-title="MALAYSIA", TV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5027/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
+#EXTINF:-1 xui-id="" tvg-id="TV2" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV2_v1.png" group-title="MALAYSIA", TV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f885481fe053e544096532c1dcb9710:24a9b17859862887f28f63c7c29bcaa5
-EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default.mpd
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3
+#EXTINF:-1 xui-id="" tvg-id="TV3" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MALAYSIA", TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
 https://aqfadtv.xyz/live/tv3/index.mpd
 
+#EXTINF:-1 xui-id="" tvg-id="TV3" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MALAYSIA", TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV3_v1.png", TV3
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
-
-
-
+#EXTINF:-1 xui-id="" tvg-id="AstroPremier" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MALAYSIA", PREMIER
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88b324e7e763532b770d84d370d7c810:0ad1e7b2d71fd73a5c199739e534da4b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9hF0Dx5/SGN-09-17-2023-1694929980026.png",Astro Premier
