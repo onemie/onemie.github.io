@@ -4,14 +4,12 @@
 
 ########################################################################################################################################
 
-#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/DemiNegaraku.png" group-title="MALAYSIA", DEMI NEGARAKU
+EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/DemiNegaraku.png" group-title="MALAYSIA", DEMI NEGARAKU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cfcff10e7bf34c5e65a8619c034dc10:311a12c7353cfb13923efe9e340ce724
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5120/default.mpd
 
 
-#EXTINF:-1 tvg-logo="https://www.sinarharian.com.my/uploads/images/2023/06/10/2226464.jpg",Polis Evo 3
-https://onedrive-mastrolive.vercel.app/api/raw/?path=/Movies/MalayMovies/Polis.Evo.3.2023.mp4
 
 
 
@@ -69,7 +67,9 @@ http://dmtn.tv:8080/live/steveny5997/54332611/420464.m3u8
 https://aqfadtv.xyz/live/ria/index.mpd
 
 EXTINF:-1 xui-id="" tvg-id="AstroRia" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" group-title="MALAYSIA", RIA 3
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/158347
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
+http://linears-playback.astro.com.my:80/vsg/41cm2rqTgl1rKazb8NT3b-u1ZkNJMjss2r3XC_nfjGkLM=Mpz4/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 EXTINF:-1 xui-id="" tvg-id="AstroRia" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" group-title="MALAYSIA", RIA 4
 http://vo01.mohdtv.com:8880/live/ALLChannels681def141491/46401783/1705.m3u8
@@ -98,7 +98,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #EXTINF:-1 xui-id="" tvg-id="AstroWarna" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MALAYSIA", WARNA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
-http://w.nasvpn.xyz:8080/live/best1/best1/7807.m3u8
+http://linears-playback.astro.com.my:80/vsg/41cm2rqTgl1rKazb8NT3b-u1ZkNJMjss2r3XC_nfjGkLM=Mpz4/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #EXTINF:-1 xui-id="" tvg-id="AstroWarna" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MALAYSIA", WARNA HD2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
