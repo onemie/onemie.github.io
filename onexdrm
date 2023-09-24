@@ -446,7 +446,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
 
 
-********************************************************************************************************************************************
+************************************************************* Kidz *******************************************************************************
 
 #EXTINF:-1 xui-id="" tvg-id="Animax" tvg-name="" tvg-logo="http://playtv.unifi.com.my:7038/CPS/images/universal/film/logo/202208/20220811/20220811020901814w9o.png" group-title="KiDz", Animax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -471,7 +471,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5121/default.mpd
 #EXTINF:-1 xui-id="" tvg-id="Aniplus" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png/revision/latest" group-title="KiDz", Aniplus
 http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8?app_type=web&userid=jjj&chname=ANIPLUS_HD
 
-#EXTINF:-1 xui-id="" tvg-id="AstroCeria" tvg-name="" tvg-logo="http://playtv.unifi.com.my:7038/CPS/images/universal/film/logo/202208/20220811/20220811020901814w9o.png" group-title="KiDz", Ceria HD
+#EXTINF:-1 xui-id="" tvg-id="AstroCeria" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Ceria_v1.png" group-title="KiDz", Ceria HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
