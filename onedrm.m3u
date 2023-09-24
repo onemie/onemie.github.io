@@ -456,6 +456,24 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemach
 #EXTINF:0 tvg-id="CBeebiesAsia.uk" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cbeebies_150.png"" group-title="KIDS",CBeebies
 https://nxanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
+########################################## ASIAN GAMES ##########################################
+
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ASIANGAMES_23.png" group-title="ASIAN GAMES", Asian Games 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5130
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5130/default.mpd
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ASIANGAMES_23.png" group-title="ASIAN GAMES", Asian Games 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5131
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5131/default.mpd
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ASIANGAMES_23.png" group-title="ASIAN GAMES", Asian Games 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5132
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5132/default.mpd
+
 
 ########################################### NEWS ##############################################
 
