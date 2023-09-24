@@ -7,8 +7,6 @@
 
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTI#EXTINF:-1 xui-id="1515" tvg-id="TVAlhijrah" tvg-name="AL-HIJRAH" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbfqpJbNaTNL4OYbasJtzQDpM-TUXx0njevgEhmcV4v7.png" group-title="MALAYSIA",AL-HIJRAH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1113
@@ -123,6 +121,13 @@ https://github.com/AqFad2811/randomlivefromyt2/raw/main/SukeTV.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Oj30_OSCTbA/T__hmGh2tvI/AAAAAAAACWg/d7WUGwrM7ag/w1200-h630-p-k-no-nu/tvikim-logo.png" group-title="MALAYSIA",TV IKIM 
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+
+###################################### XSTRO #####################################
+
+##EXTINF:-1 xui-id="" tvg-id="AstroPremier" tvg-name="" tvg-logo="https://i.ibb.co/9hF0Dx5/SGN-09-17-2023-1694929980026.png" group-title="XSTRO", PREMIER
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88b324e7e763532b770d84d370d7c810:0ad1e7b2d71fd73a5c199739e534da4b
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default.mpd
 
 ###################################### UNIFI #####################################
 
