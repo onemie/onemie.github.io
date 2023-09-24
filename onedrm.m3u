@@ -627,35 +627,70 @@ https://nxanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPr
 
 ######################################## KOREA ##########################################
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id="TVN" tvg-name="tvN" tvg-logo="https://i.ibb.co/zxZMRh1/TVN.png" group-title="KOREA",tvN
-https://nxanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+#EXTINF:-1 xui-id="" tvg-id="KBSWorld" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-title="KOREA", KBS World 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6txiarlZJV96uIHAPTBv4g","kid":"aSlQ05hpySr5qd3qRTwNEA"}],"type":"temporary"}
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GegOzF0zchXGQATLScnLAQ","kid":"+vTWK7iY3lA0RsKPsaqSEA"}],"type":"temporary"} 
-#EXTINF:0 tvg-id="TVN" tvg-name="tvN" tvg-logo="https://i.ibb.co/zxZMRh1/TVN.png" group-title="KOREA",tvN B
-##https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
+#EXTINF:-1 xui-id="" tvg-id="KBSWorld" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-title="KOREA", KBS World 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0SzOuvu6KlNdiKMIf4hCUg","kid":"jiaciqMq1364MGgxI0PWEA"}],"type":"temporary"} 
-#EXTINF:-1 tvg-logo="http://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg" group-title="KOREA", tvN Movies HD 
-#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my 
-##https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+#EXTINF:-1 xui-id="" tvg-id="ONE" tvg-name="" tvg-logo="https://aqfadtv.xyz/logos/ONE.png" group-title="KOREA", One HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Red+aounZ7Y8rP2wHvKsKQ","kid":"2P45jHkGUXP6l4jyJgVlEA"}],"type":"temporary"}
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id="ONE" tvg-name="" tvg-logo="https://i.ibb.co/b6VfXKX/ONE.png" group-title="KOREA",SONY One
-https://nxanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+#EXTINF:-1 xui-id="" tvg-id="ONE" tvg-name="" tvg-logo="https://aqfadtv.xyz/logos/ONE.png" group-title="KOREA", One HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
+#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/ONE.png",ONE
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:0 tvg-id="FMN.id" tvg-name="FMN" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fmn.jpg" group-title="KOREA",FMN
-https://nxanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+#EXTINF:-1 xui-id="" tvg-id="K-Plus" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png" group-title="KOREA", K Plus HD 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"taOoAISBIMhDrg+mjAnCYQ","kid":"qkiyi9cj+RIUiH327Z+tEA"}],"type":"temporary"}
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
+
+#EXTINF:-1 xui-id="" tvg-id="K-Plus" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png" group-title="KOREA", K Plus HD 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default.mpd
+
+#EXTINF:-1 xui-id="" tvg-id="TVN" tvg-name="" tvg-logo="https://aqfadtv.xyz/logos/tvN.png" group-title="KOREA", tVN HD 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GegOzF0zchXGQATLScnLAQ","kid":"+vTWK7iY3lA0RsKPsaqSEA"}],"type":"temporary"}
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
+
+#EXTINF:-1 xui-id="" tvg-id="TVN" tvg-name="" tvg-logo="https://aqfadtv.xyz/logos/tvN.png" group-title="KOREA", tVN HD 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=faf4d62bb898de503446c28fb1aa9210:19e80ecc5d337215c64004cb49c9cb01
+#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/tvN.png",tvN
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default.mpd
+
+#EXTINF:-1 xui-id="" tvg-id="TVNMovies" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="KOREA", tVN Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0SzOuvu6KlNdiKMIf4hCUg","kid":"jiaciqMq1364MGgxI0PWEA"}],"type":"temporary"}
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+
+#EXTINF:-1 xui-id="" tvg-id="TVNMovies" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="KOREA", tVN Movies 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
 
 #EXTINF:0 tvg-id="NewKMovies" tvg-name="" tvg-logo="https://i.ibb.co/kGc2hrq/OneGOv1.png" group-title="KOREA",NEW K-MOVIES
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e
