@@ -107,7 +107,7 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 http://dmtn.tv:8080/live/steveny5997/54332611/420464.m3u8
 https://aqfadtv.xyz/live/ria/index.mpd
 
-#EXTINF:-1 xui-id="" tvg-id="AstroRia" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" group-title="XSTRO, Ria HD
+#EXTINF:-1 xui-id="" tvg-id="AstroRia" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" group-title="XSTRO", Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 http://linears-playback.astro.com.my:80/vsg/41cm2rqTgl1rKazb8NT3b-u1ZkNJMjss2r3XC_nfjGkLM=Mpz4/dash-wv/jitp-linearwm/1004/default_ott.mpd
