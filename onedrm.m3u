@@ -110,7 +110,7 @@ https://aqfadtv.xyz/live/ria/index.mpd
 #EXTINF:-1 xui-id="" tvg-id="AstroRia" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" group-title="XSTRO", Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
-http://linears-playback.astro.com.my:80/vsg/41cm2rqTgl1rKazb8NT3b-u1ZkNJMjss2r3XC_nfjGkLM=Mpz4/dash-wv/jitp-linearwm/1004/default_ott.mpd
+http://linears-playback.astro.com.my:80/vsg/41cm2rqTgl1rKazb8NT3b-u5uAxHTzOWqw1Q7PrktnheQ=hIrt/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 ##EXTINF:-1 xui-id="" tvg-id="AstroPremier" tvg-name="" tvg-logo="https://i.ibb.co/9hF0Dx5/SGN-09-17-2023-1694929980026.png" group-title="XSTRO", PREMIER
 #KODIPROP:inputstream.adaptive.license_type=clearkey
