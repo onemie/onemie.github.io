@@ -139,6 +139,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 https://m3u-editor.com/serve/157e8700-30f5-11ee-b845-df2206c0f7b7/893976108
 ##https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 
+#EXTINF:-1 xui-id="" tvg-id="AstroWarna" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="XSTRO", WARNA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
 http://linears-playback.astro.com.my:80/vsg/41_nth9iaS2jvekAWleZotCXWeEckeeKny3KOgb6xVhE8=jjb3/dash-wv/jitp-dashisowm/2402/default_ott.mpd?PID=&PAID=2402&deviceIdType=adid&deviceId=daf8411c466b9278cf8996ba33a92d97&appId=com.astro.astro&appName=Astro+Go&devModel=android_phone&sessionId=abr-linear-e3704ed9-9011-45be-a5d5-90e384d557a3&optin=true&hhid=48aee3610a38fd6bc7e32831d3822c68&kvp=lang~may&kvp=genre~HD,MALAY&daiEnabled=true
 
 ###################################### MYTV #####################################
