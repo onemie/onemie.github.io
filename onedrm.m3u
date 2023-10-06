@@ -139,6 +139,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 https://m3u-editor.com/serve/157e8700-30f5-11ee-b845-df2206c0f7b7/893976108
 ##https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 
+http://linears-playback.astro.com.my:80/vsg/41_nth9iaS2jvekAWleZotCXWeEckeeKny3KOgb6xVhE8=jjb3/dash-wv/jitp-dashisowm/2402/default_ott.mpd?PID=&PAID=2402&deviceIdType=adid&deviceId=daf8411c466b9278cf8996ba33a92d97&appId=com.astro.astro&appName=Astro+Go&devModel=android_phone&sessionId=abr-linear-e3704ed9-9011-45be-a5d5-90e384d557a3&optin=true&hhid=48aee3610a38fd6bc7e32831d3822c68&kvp=lang~may&kvp=genre~HD,MALAY&daiEnabled=true
+
 ###################################### MYTV #####################################
 
 #EXTINF:-1 xui-id="" tvg-id="SalamHD" tvg-name="" tvg-logo="https://playtv.unifi.com.my:7046/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-title="MYTV", SALAM HD
