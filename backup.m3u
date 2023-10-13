@@ -1,4 +1,6 @@
 
-
-
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SPORTS",ARENA BOLA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5099
 http://linears-playback.astro.com.my:80/vsg/415yOZpFG2qooHnI3eHweHLN7BOpGBAUpWLIJzhoJHXl8=HsNr/dash-wv/jitp-linearwm/5099/default_ott.mpd
+
