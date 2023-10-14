@@ -18,7 +18,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 #https://aqfadtv.xyz/live/awesometv/index.mpd
 ##https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_ott.mpd
 
-#EXTINF:-1 xui-id="30" tvg-id="BernamaTV" tvg-name="BERNAMA" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4PYa-ZVRQIlnjxOzANY2r0uN5Res_A1BQQ_9dDiBAcmp.png" group-title="NEWS",BERNAMA
+#EXTINF:-1 xui-id="30" tvg-id="BernamaTV" tvg-name="BERNAMA" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4PYa-ZVRQIlnjxOzANY2r0uN5Res_A1BQQ_9dDiBAcmp.png" group-title="MALAYSIA",BERNAMA
 https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
 
 #EXTINF:-1 xui-id="1505" tvg-id="DidikTVKPM" tvg-name="DIDIKTV" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmQo5uNBwLYtfo6sa4DQP0UTVr8kV6kuj_ImAxB_fLIne.png" group-title="MALAYSIA", TV7
