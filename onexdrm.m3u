@@ -86,18 +86,6 @@ https://aqfadtv.xyz/live/tv9/index.mpd
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png" group-title="MALAYSIA",Selangor TV 
-#EXTVLCOPT:network-caching=1000 
-#EXTVLCOPT:http-referrer=https://skyios.sky4k.top 
-https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
-
-EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png" group-title="MALAYSIA",Suke TV 
-#EXTVLCOPT:network-caching=1000 
-#EXTVLCOPT:http-referrer=https://www.youtube.com 
-https://github.com/AqFad2811/randomlivefromyt2/raw/main/SukeTV.m3u8
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Oj30_OSCTbA/T__hmGh2tvI/AAAAAAAACWg/d7WUGwrM7ag/w1200-h630-p-k-no-nu/tvikim-logo.png" group-title="MALAYSIA",TV IKIM 
-https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 ###################################### XSTRO #####################################
 
@@ -191,6 +179,19 @@ https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 #EXTVLCOPT:network-caching=1000
 https://live.mana2.my/Tv5/index.m3u8?auth_key=1695109345-fabcb559a7c14e57850a164ec09d47bc-0-cde4b57c991b35fe0d2dded6c5600e97&token=1695109345-fabcb559a7c14e57850a164ec09d47bc-0-cde4b57c991b35fe0d2dded6c5600e97
 -1&limitdur=-1&accountinfo=nR3IWnuvgquP%2F8My8iyxx%2BoxnuQhQQA9yraVG9ZBgJG7lGYp3EaTqDAXfA4S%2BPVgQpTIHrOhXCgOoaP1Jv59qvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124221801%3AUTC%2C1001767138%2C27.125.242.143%2C20221124221801%2Curn:Huawei:liveTV:XTV56919296%2C1001767138%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C3073678270%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOywrCMBRE_ybLkEfjY5GVIghSBatbuUluY2naaFIF_16rdTszZzhDAovbtXa1xDmzxihbFMViaRTjzjFVc4NWMiAZ72XUglgIoel9Gd2InY-rC2eUUSE45YJU490mgJ-W5aMzmLT8Y0dMz8aidrmmT8gUvE_oYWhiTw8BXqcUpgnBalLjs9lSSrVQc6kEGca0gtx-GnKFvIrdDRK6XfRfQNcQMpIb2BY8ltCh7h8h_Lh9ch-bN5RyWgv0AAAA&tenantId=6001
+
+EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/SukeTV.png" group-title="MYTV",Suke TV 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-referrer=https://www.youtube.com 
+https://github.com/AqFad2811/randomlivefromyt2/raw/main/SukeTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png" group-title="MYTV",Selangor TV 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-referrer=https://skyios.sky4k.top 
+https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-Oj30_OSCTbA/T__hmGh2tvI/AAAAAAAACWg/d7WUGwrM7ag/w1200-h630-p-k-no-nu/tvikim-logo.png" group-title="MYTV",TV IKIM 
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 ################### SINGAPORE #####################################################
 
