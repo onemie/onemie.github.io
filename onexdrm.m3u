@@ -284,14 +284,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
 
-#EXTINF:-1 xui-id="" tvg-id="Colors" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" group-title="INDIA", Thangathirai HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CE52Vhu6nU866VOs3Tez7Q","kid":"kYrevhCphI1WfcbLWtzlEA"}],"type":"temporary"}
-#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
-
 #EXTINF:-1 xui-id="" tvg-id="Colors" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Bollyone_HD_v1.png" group-title="INDIA", BollyOne HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f884a92f39d704c432f25cf6333a3210:ebd8183d33158584f12160364c317ffa
@@ -307,7 +299,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 #EXTINF:-1 xui-id="" tvg-id="ZeeCinemaHD" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png" group-title="INDIA", ZEE Cinema HD 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default.mpd
+##https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default.mpd
 
 ####################################### MOVIES ##########################################
 
@@ -554,7 +546,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="SPORTS",ASSP 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601 
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
+##https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="SPORTS",ASSP 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
@@ -568,7 +560,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_prim
 #EXTINF:-1 tvg-ID="AstroSupersport4" tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="SPORTS", ASSP4
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+##https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 
 #EXTINF:-1 tvg-ID="AstroSupersport5" tvg-logo="https://i.ibb.co/z5n6XK5/ASSP5.png" group-title="SPORTS", ASSP5
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -638,7 +630,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllXSmhNR1V5TlRBdFpUTmpOeTAwTVdZM0xXRmxPVFl0T0RWaU5tVm1PVE13TldNMCIsIndtb3BpZCI6MzIsImV4cCI6MTY4OTc2NTA5MywiaWF0IjoxNjg5MTYxMDkzfQ.fvND4TkGCZeUstbKbtlQTzenlNdyNcLPoTYJ6dVrfL0"} 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/arena2/ 
-##https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
+https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0spF5Ei.png" group-title="SPORTS",SPOTV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
