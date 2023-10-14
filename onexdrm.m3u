@@ -540,6 +540,9 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntert
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1000
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS" ,Astro SuperSport 2
+https://iplogger.com/ASSP2
+
 #EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SPORTS",ARENA BOLA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5099
