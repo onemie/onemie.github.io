@@ -210,7 +210,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default.mpd
 
 ############################################## BACKUP LIVE ####################################################################################
 
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="BACKUP LIVE",ARENA BOLA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5099
+http://linears-playback.astro.com.my:80/vsg/415yOZpFG2qooHnI3eHweHLPIyPkyQ4No6syC3c2Q_tXw=FaE_/dash-wv/jitp-linearwm/5099/default_ott.mpd
 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5100
+#EXTINF:-1 tvg-id="AstroArenaBola2" tvg-name="" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="BACKUP LIVE",ARENA BOLA 2
+http://linears-playback.astro.com.my:80/vsg/41thS3lnydwIlDZxGV-g-TivNhzoYXjB17-WCNRVvJols=LLe6/dash-wv/jitp-linearwm/5100/default_ott.mpd
 
 #EXTINF:-1 xui-id="" tvg-id="AstroRia" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" group-title="BACKUP LIVE", RIA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
