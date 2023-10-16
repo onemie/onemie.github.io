@@ -15,11 +15,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 #EXTINF:-1 xui-id="1461" tvg-id="AwesomeTV" tvg-name="AWESOME TV" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbfqpJbNaTNL4OYbasJtzQCXYg6EWzbwHDSGio4xNd66.png" group-title="MALAYSIA",AWESOME TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/211/
-https://aqfadtv.xyz/live/awesometv/index.mpd
+##https://aqfadtv.xyz/live/awesometv/index.mpd
 ##https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_ott.mpd
 
 #EXTINF:-1 xui-id="30" tvg-id="BernamaTV" tvg-name="BERNAMA" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4PYa-ZVRQIlnjxOzANY2r0uN5Res_A1BQQ_9dDiBAcmp.png" group-title="MALAYSIA",BERNAMA
-https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
+##https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
 
 #EXTINF:-1 xui-id="1505" tvg-id="DidikTVKPM" tvg-name="DIDIKTV" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmQo5uNBwLYtfo6sa4DQP0UTVr8kV6kuj_ImAxB_fLIne.png" group-title="MALAYSIA", TV7
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -86,13 +86,13 @@ https://aqfadtv.xyz/live/tv9/index.mpd
 #EXTINF:-1 tvg-id="AstroAura" tvg-name="Astro Aura" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbfqpJbNaTNL4OYbasJtzQCrBW9OVOIPeHJwX5zlm_Yf.png" group-title="MALAYSIA", Aura HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/609/
-https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
+##https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 ##https://iplogger.com/aura
 
 #EXTINF:-1 tvg-id="AstroRania" tvg-name="Astro Rania" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmZ2wBbXfqO_vlwalTWBYXc0y53S8g0F0wNclJVmyFMHz.png" group-title="MALAYSIA", Rania HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/608/
-https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
+##https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
 ######################################## 11-6 ###############################################
 
