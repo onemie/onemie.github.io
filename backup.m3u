@@ -130,6 +130,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_ott.mpd
 #EXTINF:-1 xui-id="1436" tvg-id="TVSUKAN" tvg-name="SUKAN RTM" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4EztDL4SwrUD5qIe1xCHAovcv-DSAphZ4ZhOwJY_DHKa.png" group-title="SPORTS",SUKAN RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
+####################################### KNOWLEDGE ##########################################
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/604 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" group-title="KNOWLEDGE",History HD 
+http://linearjitp-playback.astro.com.my/dash-wv/linear/604/default.mpd
+
 ######################################## 11-6 ###############################################
 
 #EXTINF: -1 tvg-id="AstroAEC" tvg-name="AEC" tvg-logo="https://i.ibb.co/hHr5H0c/aec.png" group-title="XSTRO(11am-6pm)", AEC
