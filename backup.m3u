@@ -95,7 +95,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
 
-####################################### INDIA ###########################################
+####################################### INDIA #######################################################£###
 
 #EXTINF:-1 xui-id="" tvg-id="Colors" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors_v1.png" group-title="INDIA", Colors HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -105,7 +105,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
-######################################## KiDS #####################################################
+########################################## KOREA #########################################################
+
+#EXTINF:-1 xui-id="" tvg-id="KBSWorld" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-title="KOREA", KBS World 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6txiarlZJV96uIHAPTBv4g","kid":"aSlQ05hpySr5qd3qRTwNEA"}],"type":"temporary"}
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
+
+######################################## KiDS ###########################################################
 
 #EXTINF:-1 xui-id="" tvg-id="DreamWorks" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Dreamworks_190x80_TV-Guide.png" group-title="KiDz", DreamWorks 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
