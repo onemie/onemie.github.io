@@ -82,6 +82,7 @@ https://aqfadtv.xyz/live/tv9/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Vcyu6IazQN2QH0v43Z06ag","kid":"w+lWs4rpk74UlMfPoXsREA"}],"type":"temporary"} 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd
 
 #EXTINF:-1 tvg-id="AstroAura" tvg-name="Astro Aura" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbfqpJbNaTNL4OYbasJtzQCrBW9OVOIPeHJwX5zlm_Yf.png" group-title="INDONESIA", Aura HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
