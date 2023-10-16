@@ -105,6 +105,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
+######################################## KiDS #####################################################
+
+#EXTINF:-1 xui-id="" tvg-id="DreamWorks" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Dreamworks_190x80_TV-Guide.png" group-title="KiDz", DreamWorks 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3MvfBDrEPRi+Cz60Olgodg","kid":"tb/jVU3yq803r+Ewp+HTEA"}],"type":"temporary"}
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_ott.mpd
+
 ######################################## SPORTS #################################################
 
 #EXTINF:-1 xui-id="1436" tvg-id="TVSUKAN" tvg-name="SUKAN RTM" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4EztDL4SwrUD5qIe1xCHAovcv-DSAphZ4ZhOwJY_DHKa.png" group-title="SPORTS",SUKAN RTM
