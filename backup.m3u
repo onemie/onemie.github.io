@@ -27,7 +27,7 @@
 https://aqfadtv.xyz/live/didiktvkpm/index.mpd
 
 #EXTINF:-1 xui-id="1437" tvg-id="OKEY" tvg-name="OKEY" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmVb0rXxsGqcuGxFyBWVLMPELWvWqYaLIjuTEC91sudG_.png" group-title="MALAYSIA",OKEY
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
+##https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -83,16 +83,16 @@ https://aqfadtv.xyz/live/tv9/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Vcyu6IazQN2QH0v43Z06ag","kid":"w+lWs4rpk74UlMfPoXsREA"}],"type":"temporary"} 
 
-#EXTINF:-1 tvg-id="AstroAura" tvg-name="Astro Aura" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbfqpJbNaTNL4OYbasJtzQCrBW9OVOIPeHJwX5zlm_Yf.png" group-title="MALAYSIA", Aura HD
+#EXTINF:-1 tvg-id="AstroAura" tvg-name="Astro Aura" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbfqpJbNaTNL4OYbasJtzQCrBW9OVOIPeHJwX5zlm_Yf.png" group-title="INDONESIA", Aura HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/609/
-##https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
 ##https://iplogger.com/aura
 
-#EXTINF:-1 tvg-id="AstroRania" tvg-name="Astro Rania" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmZ2wBbXfqO_vlwalTWBYXc0y53S8g0F0wNclJVmyFMHz.png" group-title="MALAYSIA", Rania HD
+#EXTINF:-1 tvg-id="AstroRania" tvg-name="Astro Rania" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmZ2wBbXfqO_vlwalTWBYXc0y53S8g0F0wNclJVmyFMHz.png" group-title="INDONESIA", Rania HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/608/
-##https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 
 ######################################## 11-6 ###############################################
 
