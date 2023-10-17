@@ -131,7 +131,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_ott.mpd
 #EXTINF:-1 xui-id="1436" tvg-id="TVSUKAN" tvg-name="SUKAN RTM" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4EztDL4SwrUD5qIe1xCHAovcv-DSAphZ4ZhOwJY_DHKa.png" group-title="SPORTS",SUKAN RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1 tvg-id="AstroArena" tvg-name="" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SPORTS",ARENA
+#EXTINF:-1 tvg-id="AstroArena" tvg-name="" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4MiC6PYsmlkHqVF8uFDZXsOtVuYe8lLszbndb27-StX9.png" group-title="SPORTS",ARENA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5099
 http://iptv12k.com:35461/testmy167/12345/5943
