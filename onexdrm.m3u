@@ -303,6 +303,26 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 
 ####################################### MOVIES ##########################################
 
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="MOVIES",HBO FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053
+#EXTINF:-1 tvg-id="HBOFamily1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="MOVIES",HBO FAMILY FHD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055
+#EXTINF:-1 tvg-id="HBOHits1" tvg-name="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="MOVIES",HBO HITS FHD
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="MOVIES",CINEMAX FHD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
+
 #EXTINF:-1  tvg-id="useephoto" group-title="MOVIES" tvg-logo="https://i.imgur.com/drcIzRz.png",Usee Prime
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
@@ -340,12 +360,12 @@ https://nxanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/506
-#EXTINF:-1 tvg-id="CelestialMovies" tvg-logo="https://i.ibb.co/HtFTY5p/CCMB.png" group-title="Movie",Celestial Movies FHD
+#EXTINF:-1 tvg-id="CelestialMovies" tvg-logo="https://i.ibb.co/HtFTY5p/CCMB.png" group-title="MOVIES",Celestial Movies FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/100
-#EXTINF:-1 tvg-id="CCM" tvg-logo="https://i.ibb.co/DWBbYKb/CCM.png" group-type="Movie",CCM FHD
+#EXTINF:-1 tvg-id="CCM" tvg-logo="https://i.ibb.co/DWBbYKb/CCM.png" group-type="MOVIES",CCM FHD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default.mpd
 
 
