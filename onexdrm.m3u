@@ -550,7 +550,7 @@ https://iplogger.com/ASSP2
 #EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SPORTS",ARENA BOLA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5099
-
+http://trtv.my.id:80/live/liveIndex.mpd?e=c2J4KzNLdUo5WERRSVBBc3J1WmRRbXdDZU5ScVN1T1BETjFrd01vYmhTR0pGRU9sU2NVNDBWTmxVd09IYm5vYzlXUWJlWnNEYXZ3QzEyL3YzUGdOTUlTcVgzNDBNQ2NxM3NWcjF1a0Q3cnJSV04xQWNtM1UvNnJpeDFPT0hoMjFaM0FUWHBScFoyNDRYMFgzUkg2aU44bk5jNW9SMXJHajdQekM4MmtGdVJBTmhSc0ZsYzR1djZrTGVXcz0=
 
 #EXTINF:-1 xui-id="1436" tvg-id="TVSUKAN" tvg-name="SUKAN RTM" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4EztDL4SwrUD5qIe1xCHAovcv-DSAphZ4ZhOwJY_DHKa.png" group-title="SPORTS",SUKAN RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
