@@ -120,11 +120,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 
 ###################################### XSTRO #####################################
 
-#EXTINF:-1 xui-id="" tvg-id="AstroRia" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" group-title="XSTRO", Ria HD
+#EXTINF:-1 xui-id="" tvg-id="AstroOasis" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png" group-title="XSTRO", OASIS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
-http://dmtn.tv:8080/live/steveny5997/54332611/420464.m3u8
-https://aqfadtv.xyz/live/ria/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2505/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 #EXTINF:-1 xui-id="" tvg-id="AstroRia" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" group-title="XSTRO", Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
