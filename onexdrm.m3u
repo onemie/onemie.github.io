@@ -545,7 +545,13 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntert
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS" ,Astro SuperSport 2
-https://iplogger.com/ASSP2
+##https://iplogger.com/ASSP2
+http://trtv.my.id:80/live/liveIndex.mpd?e=c2J4KzNLdUo5WERRSVBBc3J1WmRRbXdDZU5ScVN1T1BETjFrd01vYmhTR0pGRWZGTXNRam9uZG1YejJ4WFdjaTdXUjlUS2tDYXVBNjRBckIzT011Tzh1cVhTZ3hIaWNxei9KNzVQa0Q0Nkw2WDdSOUNFYjVqTHY1NFZ1SkhpT1BJWE1VWkx4eVNXWVBieUxaVkVTWkJZcStRY1JKdHRueGk2RHhnMTRGeVFreWxSTUFtWlVVL1p3d0NoNU1wNlBaR2d5RUZBPT0=
+
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SPORTS",ARENA BOLA (B)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5099
+http://trtv.my.id:80/live/liveIndex.mpd?e=c2J4KzNLdUo5WERRSVBBc3J1WmRRbXdDZU5ScVN1T1BETjFrd01vYmhTR0pGRU9sU2NVNDBWTmxVd09IYm5vYzlXUWJlWnNEYXZ3QzEyL3YzUGdOTUlTcVgzNDBNQ2NxM3NWcjF1a0Q3cnJSV04xQWNtM1UvNnJpeDFPT0hoMjFaM0FUWHBScFoyNDRYMFgzUkg2aU44bk5jNW9SMXJHajdQekM4MmtGdVJBTmhSc0ZsYzR1djZrTGVXcz0=
 
 #EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="SPORTS",ARENA BOLA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
