@@ -542,7 +542,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntert
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="SPORTS" ,Astro SuperSport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1000
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+http://trtv.my.id:80/live/liveIndex.mpd?e=c2J4KzNLdUo5WERRSVBBc3J1WmRRbXdDZU5ScVN1T1BETjFrd01vYmhTR0pGRWZGTXNRam9uZG1YejJ4WFdjaTdXUjlUS2tDYXVBNjRBckIzT011Tzh1cVhTZ3hIaWNxei9KNzVQa0Q0Nkw2WDdSOUNFYjVqTHY3NFZ1SkhpT1BJWE1VWkx4eVNXWVBieUh6VkVTWkJZcStRY1JKdHRueGk2RHhnMTRGeVFreWxSTUFtWlVVL1p3d0NoNU1wNlBaR2d5RUZBPT0=
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS" ,Astro SuperSport 2
 ##https://iplogger.com/ASSP2
