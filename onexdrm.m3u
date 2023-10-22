@@ -120,12 +120,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 
 ###################################### XSTRO #####################################
 
+#EXTINF:-1 xui-id="" tvg-id="AstroPrima" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="XSTRO", PRIMA HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
+http://trtv.my.id:80/live/liveIndex.mpd?e=c2J4KzNLdUo5WERRSVBBc3J1WmRRbXdDZU5ScVN1T1BETjFrd01vYmhTRzFIVU9wU2V3QnZuWm1VeGUxYms4NjRHZGhkWUlPRE90NC9RclIydTUzVzRxcktSRVVNQTVSeU1OcjZNNHc4b2pWV05GeFMxejV4YjNtL1NIZldUMzhjUmxIU1l4SFMza0FQbG5wYzNlNUthV0FkWk1ndDdYeA==
+
 #EXTINF:-1 xui-id="" tvg-id="AstroOasis" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png" group-title="XSTRO", OASIS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2505/
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
-#EXTINF:-1 xui-id="" tvg-id="AstroRia" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" group-title="XSTRO", Ria HD
+#EXTINF:-1 xui-id="" tvg-id="AstroRia" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" group-title="XSTRO", RIA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 http://trtv.my.id:80/live/liveIndex.mpd?e=c2J4KzNLdUo5WERRSVBBc3J1WmRRbXdDZU5ScVN1T1BETjFrd01vYmhTRzFIVU9wU2V3QnZuWm1VeGUxYms4NjRHZGhkWUlPRE90NC9RclIydTUzVzRxcktSRVVNQTVSeWZSTjZNNHc4b2pSV05GeFMxejV4YjNtL1NIZldUMzhjUmxIU1l4SFMza0FQbG5wYzNlNUthV0FkWk1ndDdYeA==
