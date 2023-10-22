@@ -129,7 +129,7 @@ https://aqfadtv.xyz/live/ria/index.mpd
 #EXTINF:-1 xui-id="" tvg-id="AstroRia" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" group-title="XSTRO", Ria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
-http://linears-playback.astro.com.my:80/vsg/41cm2rqTgl1rKazb8NT3b-uxKq0kt0UXorSXwF_ozB3cY=ec24/dash-wv/jitp-linearwm/1004/default_ott.mpd
+http://trtv.my.id:80/live/liveIndex.mpd?e=c2J4KzNLdUo5WERRSVBBc3J1WmRRbXdDZU5ScVN1T1BETjFrd01vYmhTRzFIVU9wU2V3QnZuWm1VeGUxYms4NjRHZGhkWUlPRE90NC9RclIydTUzVzRxcktSRVVNQTVSeWZSTjZNNHc4b2pSV05GeFMxejV4YjNtL1NIZldUMzhjUmxIU1l4SFMza0FQbG5wYzNlNUthV0FkWk1ndDdYeA==
 
 #EXTINF:-1 xui-id="" tvg-id="AstroWarna" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="XSTRO", WARNA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
