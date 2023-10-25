@@ -98,3 +98,45 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298531
 
+###########################################################################################################################################
+#EXTINF:-1 xui-id="64" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT8czAKos6gyD-7fuSJIHa4M.png" group-title="MALAYSIA",TV1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711
+https://aqfadtv.xyz/live/tv1/index.mpd
+
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_m-Gz6ajBI0zarwiDvdvo_.png" group-title="MALAYSIA",TV2
+##https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
+
+#EXTINF:-1 xui-id="60" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_m-Gz6ajBI0zarwiDvdvo_.png" group-title="MALAYSIA",TV2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5027/ 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
+
+#EXTINF:-1 xui-id="65" tvg-id="TV3" tvg-name="TV3" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_-3Y_h3omn-uGPZPsjmOex.png" group-title="MALAYSIA",TV3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/ 
+https://aqfadtv.xyz/live/tv3/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#EXTINF:-1 xui-id="65" tvg-id="TV3" tvg-name="TV3 (B)" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_-3Y_h3omn-uGPZPsjmOex.png" group-title="MALAYSIA",TV3 (B)
+##https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
+
+#EXTINF:-1 xui-id="1504" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT8O4kpThciy8aQ_YzfjVPBw.png" group-title="MALAYSIA",TV6
+#EXTVLCOPT:http-user-agent=
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+
+#EXTINF:-1 xui-id="6382" tvg-id="8TV" tvg-name="TV8" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT8Z_EPZHd4vQxkPMFvxgAo-.png" group-title="MALAYSIA",TV8
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv8/ 
+https://aqfadtv.xyz/live/tv8/index.mpd
+
+
+#EXTINF:-1 xui-id="1495" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_Jh3ihyVfFVpxXGeKflMEL.png" group-title="MALAYSIA",TV9
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/ 
+https://aqfadtv.xyz/live/tv9/index.mpd
+
+
+
