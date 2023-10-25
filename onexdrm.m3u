@@ -34,9 +34,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 
 #EXTINF:-1 xui-id="64" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT8czAKos6gyD-7fuSJIHa4M.png" group-title="MALAYSIA",TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711
-##https://aqfadtv.xyz/live/tv1/index.mpd
-http://trtv.my.id:80/live/liveIndex.mpd?e=c2J4KzNLdUo5WERRSVBBc3J1WmRRbXdDZU5ScVN1T1BETjFrd01vYmhTRzFIVU9tRit4SXJtWldkaW04Ym5RWThXTnVkdUFDTnV0NTVRck4yKzBCSkkrdk5RVXdIanNFOHNZUXl2a0Q0cWJPWE5COURGNk13YXJpeEhXT0hoMnlhSG9UWG9CelNrUUJRMFhaUkVTYkpJYTROdGNucU9Xa2hlTFE3MGxobXdvWnZnRWYvc1FJNzZFN2R4eGNtWWVnYzN2TUZKSTZBOGxCdlljeXNFSTJsTEg4Mm1RT3h1NUJTYWpmUnc9PQ==
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
+http://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_m-Gz6ajBI0zarwiDvdvo_.png" group-title="MALAYSIA",TV2
 ##https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
