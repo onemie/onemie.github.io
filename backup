@@ -127,7 +127,7 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 #EXTVLCOPT:http-user-agent=
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 xui-id="" tvg-id="DidikTVKPM" tvg-name="" tvg-logo="https://didik.tv/images/logotv2.png" group-title="MALAYSIA", NTV7
+#EXTINF:-1 xui-id="" tvg-id="DidikTVKPM" tvg-name="" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmQo5uNBwLYtfo6sa4DQP0UTVr8kV6kuj_ImAxB_fLIne.png" group-title="MALAYSIA", NTV7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
 https://aqfadtv.xyz/live/didiktvkpm/index.mpd
