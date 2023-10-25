@@ -137,6 +137,30 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #EXTVLCOPT:http-referrer=https://skyios.sky4k.top 
 https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
 
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="FREEVIEW", TRANS 7
+#EXTVLCOPT:network-caching=1000
+http://103.166.27.2:8112/play/a01c/index.m3u8
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="FREEVIEW", TRANS TV
+#EXTVLCOPT:network-caching=1000
+http://103.166.27.2:8112/play/a01b/index.m3u8
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="FREEVIEW", MOJI HD
+#EXTVLCOPT:network-caching=1000
+http://103.166.27.2:8112/play/a017/index.m3u8
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="FREEVIEW", CNBC INDO
+#EXTVLCOPT:network-caching=1000
+http://103.166.27.2:8112/play/a01e/index.m3u8
+
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="FREEVIEW", CNN INDO
+#EXTVLCOPT:network-caching=1000
+http://103.166.27.2:8112/play/a01d/index.m3u8
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="FREEVIEW", TV ONE
+#EXTVLCOPT:network-caching=1000
+http://103.166.27.2:8112/play/a01h/index.m3u8
 
 ################### SINGAPORE #####################################################
 
