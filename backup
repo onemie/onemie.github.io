@@ -128,10 +128,15 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=
 #EXTVLCOPT:http-user-agent=
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 xui-id="" tvg-id="T" tvg-name="" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png" group-title="FREEVIEW",Selangor TV 
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png" group-title="FREEVIEW",Selangor TV 
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-referrer=https://skyios.sky4k.top 
 https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=e3cb7499710786eb105fab7b52459910:8ab093adabdc343b8734b7ecf0aea11a 
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Moonbug_V1.png" group-title="FREEVIEW", Moonbug Kids 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default.mpd
 
 ################### SINGAPORE #####################################################
 
