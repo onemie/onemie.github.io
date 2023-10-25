@@ -174,4 +174,4 @@ https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.m
 #EXTVLCOPT:network-caching=1000 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="BRUNEI", RTB Go Live HD 
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
