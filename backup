@@ -1,4 +1,8 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://aqfadtv.xyz/epg" url-tvg="https://aqfadtv.xyz/epg" refresh="1440" max-conn="1" refresh="24"
+
+#EXTM3U billed-msg="🔥OneXDRM FREEVIEW | NOT FOR SALE🔥" tvg-logo="
+
+#######################################################################################################################################################
 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
