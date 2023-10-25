@@ -128,7 +128,7 @@ http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298531
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="FREEVIEW",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
 
-#EXTINF:-1 xui-id="1504" tvg-id="TV6" tvg-name="TV6" tvg-logo="" group-title="FREEVIEW",TV6
+#EXTINF:-1 xui-id="1504" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="FREEVIEW",TV6
 #EXTVLCOPT:http-user-agent=
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
