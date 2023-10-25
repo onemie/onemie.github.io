@@ -204,8 +204,16 @@ https://drm-livecdn.khanggtivi.xyz/kplus/dec508a3537a29daaaf5aac4deeaf9f7f963f0c
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://drm-livecdn.khanggtivi.xyz/kplus/dec508a3537a29daaaf5aac4deeaf9f7f963f0cd97c527f1ceb5e1d66612c0bbfac022/cinemaxhd/master.m3u8
 
+#EXTINF:-1 tvg-id="hits" group-title="HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/233.png", HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://drm-livecdn.khanggtivi.xyz/360/dec508a3537a29daaaf5aac4deeaf9f7f963f0cd97c527f1ceb5e1d66612c0bbfac022/v5live-channel/chunklist.m3u8?vstv=107
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8kWnyqn.png" group-title="HBO-GO",Star Movies Thử nghiệm phát sóng
+#https://live.khanggtivi.xyz/play/198/play_videots.m3u8?deviceid=00:1A:79:33:E9:41
+https://khanggtivi.xyz:443/live/StarMovie/ips_live207.m3u8?tid=dec508a3537a29daaaf5aac4deeaf9f7f963f0cd97c527f1ceb5e1d66612c0bbfac022
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dpu3pd2.png" group-title="HBO-GO",Star Movies Select
+https://live.khanggtivi.xyz/play/199/play_videots.m3u8?deviceid=00:1A:79:33:E9:41
 
 
 
