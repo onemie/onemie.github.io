@@ -15,7 +15,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 http://w.nasvpn.xyz:8080/live/best/best/13794.m3u8
 
 
-#EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", ARENA BOLA
+EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", ARENA BOLA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5099
 http://trtv.my.id:80/live/liveIndex.mpd?e=c2J4KzNLdUo5WERRSVBBc3J1WmRRbXdDZU5ScVN1T1BETjFrd01vYmhTR0pGRU9sU2NVNDBWTmxVd09IYm5vYzlXUWJlWnNEYXZ3QzEyL3YzUGdOTUlTcVgzNDBNQ2NxM3NWcjF1a0Q3cnJSV04xQWNtM1UvNnJpeDFPT0hoMjFaM0FUWHBScFoyNDRYMFgzUkg2aU44bk5jNW9SMXJHajdQekM4MmtGdVJBTmhSc0ZsYzR1djZrTGVXcz0=
@@ -69,32 +69,32 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default.mpd
 #https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9FJknMK.png" group-title="Sport",True Premier Football 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9FJknMK.png" group-title="SERVER SPORTS",True Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yS94g00.png" group-title="Sport",True Premier Football 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yS94g00.png" group-title="SERVER SPORTS",True Premier Football 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xBmmgXe.png" group-title="Sport",True Premier Football 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xBmmgXe.png" group-title="SERVER SPORTS",True Premier Football 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HOfAIeF.png" group-title="Sport",True Premier Football 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOfAIeF.png" group-title="SERVER SPORTS",True Premier Football 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IAvYAOR.png" group-title="Sport",True Premier Football 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IAvYAOR.png" group-title="SERVER SPORTS",True Premier Football 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
-#EXTINF:-1 tvg-id="818" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="Sport",BeIN Sports FHD
+#EXTINF:-1 tvg-id="818" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="SERVER SPORTS",BeIN Sports FHD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="Sport", FIGHT SPORTS 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="SERVER SPORTS", FIGHT SPORTS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298531
 
