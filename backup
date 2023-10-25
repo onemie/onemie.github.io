@@ -191,3 +191,28 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="BRUNEI", RTB Go Live HD 
 #EXTVLCOPT:network-caching=1000 
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+#--*.*--HBO-GO--*.*--#
+
+#EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://khanggne.github.io/logo/MSky_TV/hbohd.png" group-title="HBO-GO",HBO HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://drm-livecdn.khanggtivi.xyz/kplus/dec508a3537a29daaaf5aac4deeaf9f7f963f0cd97c527f1ceb5e1d66612c0bbfac022/hbo/master.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamily" group-title="HBO-GO" tvg-logo="https://img.lichphatsong.xyz/logo/hbofamilyhd-asia.png",$ HBO Family HD
+https://drm-livecdn.khanggtivi.xyz/kplus/dec508a3537a29daaaf5aac4deeaf9f7f963f0cd97c527f1ceb5e1d66612c0bbfac022/hbofamily/master.m3u8
+
+#EXTINF:-1 tvg-id="HBOHits" group-title="HBO-GO" tvg-logo="https://img.lichphatsong.xyz/logo/hbohitshd-asia.png",$ HBO Hits HD
+https://drm-livecdn.khanggtivi.xyz/kplus/dec508a3537a29daaaf5aac4deeaf9f7f963f0cd97c527f1ceb5e1d66612c0bbfac022/hbohits/master.m3u8
+
+#EXTINF:-1 tvg-id="hbosignaturehd-asia" group-title="HBO-GO" tvg-logo="https://img.lichphatsong.xyz/logo/hbosignaturehd-asia.png",$ HBO Signature
+https://drm-livecdn.khanggtivi.xyz/kplus/dec508a3537a29daaaf5aac4deeaf9f7f963f0cd97c527f1ceb5e1d66612c0bbfac022/hbosignature/master.m3u8
+
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://khanggne.github.io/logo/MSky_TV/cinemaxhd.png" group-title="HBO-GO",CINEMAX HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://drm-livecdn.khanggtivi.xyz/kplus/dec508a3537a29daaaf5aac4deeaf9f7f963f0cd97c527f1ceb5e1d66612c0bbfac022/cinemaxhd/master.m3u8
+
+
+
+
+
+
