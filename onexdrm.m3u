@@ -7,7 +7,7 @@
 
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTI#EXTINF:-1 xui-id="1515" tvg-id="TVAlhijrah" tvg-name="AL-HIJRAH" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbfqpJbNaTNL4OYbasJtzQDpM-TUXx0njevgEhmcV4v7.png" group-title="MALAYSIA",AL-HIJRAH
+#EXTINF:-1 xui-id="1515" tvg-id="TVAlhijrah" tvg-name="" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbfqpJbNaTNL4OYbasJtzQDpM-TUXx0njevgEhmcV4v7.png" group-title="MALAYSIA",AL-HIJRAH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1113
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
