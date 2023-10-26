@@ -257,3 +257,35 @@ http://w.nasvpn.xyz:8080/live/haji/haji/19242.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
 ##https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
+
+###########################################################################################################################################
+
+#EXTINF:-1 group-title="FAST Channels" tvg-logo="https://aqfadtv.xyz/logos/TayoPlus.jpg",Tayo+
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayoplus-dash-sooka/index.mpd
+
+#EXTINF:-1 group-title="FAST Channels" tvg-logo="https://aqfadtv.xyz/logos/Tastemade.png",Tastemade
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeintlaus-dash-sooka/index.mpd
+
+#EXTINF:-1 group-title="FAST Channels" tvg-logo="https://aqfadtv.xyz/logos/GustoTV.png",Gusto TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-dash-sooka/index.mpd
+
+#EXTINF:-1 group-title="FAST Channels" tvg-logo="https://aqfadtv.xyz/logos/InfamousTV.png",Infamous TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-infamoustv-dash-sooka/index.mpd
+
+#EXTINF:-1 group-title="FAST Channels" tvg-logo="https://aqfadtv.xyz/logos/K-Popcorn.png",K-Popcorn
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01944-ktalpha-kpopcorn-dash-sooka/index.mpd
+
+#EXTINF:-1 group-title="FAST Channels" tvg-logo="https://aqfadtv.xyz/logos/EDGEsport.png",EDGEsport
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00545-edgenetworks-edgesport-dash-sooka/index.mpd
+
+#EXTINF:-1 group-title="FAST Channels" tvg-logo="https://aqfadtv.xyz/logos/CarbonTV.png",Carbon TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01570-carbontv-carbontv-dash-sooka/index.mpd
+
+#EXTINF:-1 group-title="FAST Channels" tvg-logo="https://aqfadtv.xyz/logos/BollywoodPrime.jpg",Bollywood Prime
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00877-b4unetworkeurop-bollywoodprime-dash-sooka/index.mpd
+
+#EXTINF:-1 group-title="FAST Channels" tvg-logo="https://aqfadtv.xyz/logos/YRFMusic.png",YRF Music
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00223-unisysinfo-yrf-music-dash-sooka/index.mpd
+
+#EXTINF:-1 group-title="FAST Channels" tvg-logo="https://aqfadtv.xyz/logos/ESTV.png",ESTV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00303-televisionkorea-estv-dash-sooka/index.mpd
