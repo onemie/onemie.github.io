@@ -107,12 +107,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5071
-#EXTINF:-1 tvg-id="603" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/tutor-tv.png" group-title="TV PENDIDIKAN",TUTOR TV SMK
+#EXTINF:-1 tvg-id="603" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/tutor-tv.png" group-title="MALAYSIA",TUTOR TV SMK
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
+
+#####################################################################################################################################################################################################################
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/
-#EXTINF:-1 tvg-id="TV3" group-title="Online TV" group-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" tvg-logo="https://aqfadtv.xyz/logos/DramaSangat.png",TV3
+#EXTINF:-1 tvg-id="TV3" group-title="Online TV" group-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg",TV3
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40
@@ -122,12 +124,12 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton2.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/
-#EXTINF:-1 tvg-id="8TV" group-title="Online TV" group-logo="https://aqfadtv.xyz/images/online_v4.png" tvg-logo="https://aqfadtv.xyz/logos/DramaSangat.png",TV8
+#EXTINF:-1 tvg-id="8TV" group-title="Online TV" group-logo="https://aqfadtv.xyz/images/online_v4.png" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg",TV8
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/
-#EXTINF:-1 tvg-id="TV9" group-title="Online TV" group-logo="https://aqfadtv.xyz/images/online_v4.png" tvg-logo="https://aqfadtv.xyz/logos/DramaSangat.png",TV9
+#EXTINF:-1 tvg-id="TV9" group-title="Online TV" group-logo="https://aqfadtv.xyz/images/online_v4.png" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg",TV9
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40
