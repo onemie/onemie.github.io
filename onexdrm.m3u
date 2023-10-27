@@ -24,7 +24,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default.mpd
 ##https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
 
-#EXTINF:-1 xui-id="1437" tvg-id="OKEY" tvg-name="" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmVb0rXxsGqcuGxFyBWVLMPELWvWqYaLIjuTEC91sudG_.png" group-title="MALAYSIA",OKEY Tv
+#EXTINF:-1 xui-id="1437" tvg-id="OKEY" tvg-name="" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmVb0rXxsGqcuGxFyBWVLMPELWvWqYaLIjuTEC91sudG_.png" group-title="MALAYSIA",OKEY
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
@@ -134,7 +134,7 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/
-#EXTINF:-1 tvg-id="DramaSangat" group-title="Online TV" group-logo="https://aqfadtv.xyz/images/online_v4.png" tvg-logo="https://aqfadtv.xyz/logos/DramaSangat.png",Drama Sangat
+#EXTINF:-1 tvg-id="DramaSangat" group-title="Online TV" group-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" tvg-logo="https://aqfadtv.xyz/logos/DramaSangat.png",Drama Sangat
 https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton5.m3u8
 
 
