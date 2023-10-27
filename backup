@@ -6,8 +6,8 @@
 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", FOOTBALL LIVE 1
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", FOOTBALL LIVE 1
+https://onego77.com/freeview.mp4
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
