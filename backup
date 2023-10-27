@@ -47,6 +47,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
 #EXTINF:-1 tvg-id="1802" tvg-name="SPOTV 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png" group-title="DRM SPORTS",SPOTV 2 FHD
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5079
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default.mpd
+
 #EXTINF:-1 tvg-id="821" tvg-logo="http://linear-poster.astro.com.my/prod/logo/WWE_v1.png" group-title="DRM SPORTS",WWE Network FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
