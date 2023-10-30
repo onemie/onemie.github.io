@@ -6,7 +6,7 @@
 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", FOOTBALL LIVE 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", OneGO77
 https://onego77.com/freeview.mp4
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
@@ -26,7 +26,7 @@ http://w.nasvpn.xyz:8080/live/haji/haji/7868.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5099
 #EXTVLCOPT:http-user-agent=ffkyou
-http://w.nasvpn.xyz:8080/live/haji/haji/7807.ts
+http://w.nasvpn.xyz:8080/live/haji/haji/7868.ts
 
 :-1 tvg-id="AstroArenaBola2" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE",ARENA BOLA 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
