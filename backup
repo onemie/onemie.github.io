@@ -231,35 +231,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
-#--*.*--HBO-GO--*.*--#
 
-#EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://khanggne.github.io/logo/MSky_TV/hbohd.png" group-title="HBO-GO",HBO HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://drm-livecdn.khanggtivi.xyz/kplus/dec508a3537a29daaaf5aac4deeaf9f7f963f0cd97c527f1ceb5e1d66612c0bbfac022/hbo/master.m3u8
-
-#EXTINF:-1 tvg-id="HBOFamily" group-title="HBO-GO" tvg-logo="https://img.lichphatsong.xyz/logo/hbofamilyhd-asia.png",$ HBO Family HD
-https://drm-livecdn.khanggtivi.xyz/kplus/dec508a3537a29daaaf5aac4deeaf9f7f963f0cd97c527f1ceb5e1d66612c0bbfac022/hbofamily/master.m3u8
-
-#EXTINF:-1 tvg-id="HBOHits" group-title="HBO-GO" tvg-logo="https://img.lichphatsong.xyz/logo/hbohitshd-asia.png",$ HBO Hits HD
-https://drm-livecdn.khanggtivi.xyz/kplus/dec508a3537a29daaaf5aac4deeaf9f7f963f0cd97c527f1ceb5e1d66612c0bbfac022/hbohits/master.m3u8
-
-#EXTINF:-1 tvg-id="hbosignaturehd-asia" group-title="HBO-GO" tvg-logo="https://img.lichphatsong.xyz/logo/hbosignaturehd-asia.png",$ HBO Signature
-https://drm-livecdn.khanggtivi.xyz/kplus/dec508a3537a29daaaf5aac4deeaf9f7f963f0cd97c527f1ceb5e1d66612c0bbfac022/hbosignature/master.m3u8
-
-#EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://khanggne.github.io/logo/MSky_TV/cinemaxhd.png" group-title="HBO-GO",CINEMAX HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://drm-livecdn.khanggtivi.xyz/kplus/dec508a3537a29daaaf5aac4deeaf9f7f963f0cd97c527f1ceb5e1d66612c0bbfac022/cinemaxhd/master.m3u8
-
-#EXTINF:-1 tvg-id="hits" group-title="HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/233.png", HITS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://drm-livecdn.khanggtivi.xyz/360/dec508a3537a29daaaf5aac4deeaf9f7f963f0cd97c527f1ceb5e1d66612c0bbfac022/v5live-channel/chunklist.m3u8?vstv=107
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8kWnyqn.png" group-title="HBO-GO",Star Movies
-#https://live.khanggtivi.xyz/play/198/play_videots.m3u8?deviceid=00:1A:79:33:E9:41
-https://khanggtivi.xyz:443/live/StarMovie/ips_live207.m3u8?tid=dec508a3537a29daaaf5aac4deeaf9f7f963f0cd97c527f1ceb5e1d66612c0bbfac022
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dpu3pd2.png" group-title="HBO-GO",Star Movies Select
-https://live.khanggtivi.xyz/play/199/play_videots.m3u8?deviceid=00:1A:79:33:E9:41
 
 
 
