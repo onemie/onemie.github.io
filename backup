@@ -54,19 +54,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
-#EXTINF:-1 tvg-id="801" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_arena_my.png" group-title="DRM SPORTS",Arena FHD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
-
-#EXTINF:-1 tvg-id="AstroArena2" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_arena_my.png" group-title="DRM SPORTS",Arena 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
-
-#EXTINF:-1 tvg-id="4011" tvg-name="unifi Sports 1" group-title="DRM SPORTS" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg",unifi Sports 1 HD
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2601
 #EXTINF:-1 tvg-id="823" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="DRM SPORTS",Premier Sport FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default.mpd
@@ -132,27 +119,6 @@ http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298531
 #KODIPROP:inputstream.adaptive.license_key=e76ae17d861546be9c238e6582509c2c:de1a91e2306bf8442236a80477f526e1
 https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/index.mpd
 
-#EXTINF:-1 group-title="DRM SPORTS 2" tvg-id="SSC 2" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg", SSC 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b8763ccad3d146c2b15f8a77a4d6d733:ab87f6ae46b2dc187bd94cbb48cfe074
-https://ssc-2-on-prem-ak.akamaized.net/out/v1/d9a2acf5f809461ca47714440fcbc0f4/index.mpd
-
-
-#EXTINF:-1 group-title="DRM SPORTS 2" tvg-id="SSC 3" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg", SSC 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3af2aa1da4a41cbb37b1dbe43b46782:b6b74f29f6d1501b989c96aec4dae599
-https://ssc-3-on-prem-ak.akamaized.net/out/v1/ad2b1abef05c419aa6a4e6aee6d269a2/index.mpd
-
-
-#EXTINF:-1 group-title="DRM SPORTS 2" tvg-id="SSC 4" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg", SSC 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c506baa39a74674874ae2ab8bbc792f:1fa11c606eea3ba805f3d2efa537b1fa
-https://ssc-4-on-prem-ak.akamaized.net/out/v1/3e442c7dad1b44b6a0914aa26b62a892/index.mpd
-
-#EXTINF:-1 group-title="DRM SPORTS 2" tvg-id="SSC 5" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg", SSC 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=150150f30a8140a2bfda5d1b3fbb2d4b:dad19250368b129f003817b778d65dae
-https://ssc-5-on-prem-cw-ak.akamaized.net/out/v1/ee54cd9a3f844ceb8249f430733f9c00/index.mpd
 
 #EXTINF:-1 group-title="DRM SPORTS 2" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg", SSC EXTRA 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
