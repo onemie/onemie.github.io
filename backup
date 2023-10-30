@@ -177,7 +177,7 @@ https://ssc-3-on-prem-ak.akamaized.net/out/v1/ad2b1abef05c419aa6a4e6aee6d269a2/i
 #KODIPROP:inputstream.adaptive.license_key=2c506baa39a74674874ae2ab8bbc792f:1fa11c606eea3ba805f3d2efa537b1fa
 https://ssc-4-on-prem-ak.akamaized.net/out/v1/3e442c7dad1b44b6a0914aa26b62a892/index.mpd
 
-#EXTINF:-1 group-title="SPORT AUTO" tvg-id="SSC 5" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg", SSC 5
+#EXTINF:-1 group-title="DRM SPORTS 2" tvg-id="SSC 5" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg", SSC 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=150150f30a8140a2bfda5d1b3fbb2d4b:dad19250368b129f003817b778d65dae
 https://ssc-5-on-prem-cw-ak.akamaized.net/out/v1/ee54cd9a3f844ceb8249f430733f9c00/index.mpd
@@ -188,12 +188,12 @@ https://ssc-5-on-prem-cw-ak.akamaized.net/out/v1/ee54cd9a3f844ceb8249f430733f9c0
 https://ssc-extra1-on-prem-cw-ak.akamaized.net/out/v1/d309ac98b822425d9435cca654211498/index.mpd
 
 
-#EXTINF:-1 group-title="SPORT AUTO" tvg-id="SSC EXTRA 2" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg", SSC EXTRA 2
+#EXTINF:-1 group-title="DRM SPORTS 2" tvg-id="SSC EXTRA 2" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg", SSC EXTRA 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc98baf530ac49aea60a7bf50929aa91:f8c40722bb6a0cf822588661740a08bb
 https://ssc-extra2-on-prem-ak.akamaized.net/out/v1/a525c44d152f4d238aa21af75945e29c/index.mpd
 
-#EXTINF:-1 group-title="SPORT AUTO" tvg-id="SSC EXTRA 3" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg", SSC EXTRA 3
+#EXTINF:-1 group-title="DRM SPORTS 2" tvg-id="SSC EXTRA 3" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg", SSC EXTRA 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b05d5f11a0b422d86354c34782ed2bc:82aef319b4cfc71fd48cdd495ee79786
 https://ssc-extra3-on-prem-cw-ak.akamaized.net/out/v1/9d373d000ab64078b131f9d4c18e3502/index.mpd
