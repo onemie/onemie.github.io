@@ -5,6 +5,9 @@
 
 ################################################################################################
 
+EXTINF:-1 xui-id="" tvg-id="AstroRia" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" group-title="BACKUP LIVE", RIA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 http://trtv.my.id:80/live/liveIndex.mpd?e=c2J4KzNLdUo5WERRSVBBc3J1WmRRbXdDZU5ScVN1T1BETjFrd01vYmhTRzFIVU9tRit4SXJtWldjVG1YYm5jWTdXUitkYm9OTnV0NDEyK216Tk1CQ2MyREtDczBNQ1JSMzhVUXl1azFocUxJWCs1OUNGelRoWVhWbWx1dk1pT1BXbjgyVHF4MmQySVJXSDNuZjBTY0pNKzRRNTQ2dkxxa3c5TEQyVWRSbkM4UnZTOGJsKzV0eFlrT0V5WlJuYXFGTWhEVmE0QmVjc2x0bzdzNm55Rk5qcUxQd1J4a3lmWTdUcXJTSGxhZGExaUk5clUwMnhOYjMyYzA1L2lybnppUXRCdWZTcUV0OVF1aXlpcGhPRTNLcXRpcVo2SzVSMHNSS25QMFE5Tk1wSy9vWjJ2Uk9TeHpUNUlWT1J3eHQ2OUd2MUR0L1lJVVZOTm9GRUt2UmVxenNIR0tlTmw3UmFRd0Rac2Y2UGh2R1lsUUxKamlONTZMZ3c9PQ==
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
