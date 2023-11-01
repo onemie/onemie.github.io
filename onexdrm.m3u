@@ -536,7 +536,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5050
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default.mpd
 
-#EXTINF:-1 tvg-id="MTVAsia" ch-number="718" group-title="Music" group-logo="https://aqfadtv.xyz/images/music.png" tvg-logo="https://aqfadtv.xyz/logos/MTVLive_v1.png",MTV Live
+#EXTINF:-1 tvg-id="MTVAsia" ch-number="718" group-title="Lifestyle" group-logo="https://aqfadtv.xyz/images/music.png" tvg-logo="https://aqfadtv.xyz/logos/MTVLive_v1.png",MTV Live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5014
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default.mpd
