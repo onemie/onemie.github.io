@@ -5,11 +5,15 @@
 
 ################################################################################################
 
+http://trtv.my.id:80/live/liveIndex.mpd?e=c2J4KzNLdUo5WERRSVBBc3J1WmRRbXdDZU5ScVN1T1BETjFrd01vYmhTRzFIVU9tRit4SXJtWldjVG1YYm5jWTdXUitkYm9OTnV0NDEyK216Tk1CQ2MyREtDczBNQ1JSMzhVUXl1azFocUxJWCs1OUNGelRoWVhWbWx1dk1pT1BXbjgyVHF4MmQySVJXSDNuZjBTY0pNKzRRNTQ2dkxxa3c5TEQyVWRSbkM4UnZTOGJsKzV0eFlrT0V5WlJuYXFGTWhEVmE0QmVjc2x0bzdzNm55Rk5qcUxQd1J4a3lmWTdUcXJTSGxhZGExaUk5clUwMnhOYjMyYzA1L2lybnppUXRCdWZTcUV0OVF1aXlpcGhPRTNLcXRpcVo2SzVSMHNSS25QMFE5Tk1wSy9vWjJ2Uk9TeHpUNUlWT1J3eHQ2OUd2MUR0L1lJVVZOTm9GRUt2UmVxenNIR0tlTmw3UmFRd0Rac2Y2UGh2R1lsUUxKamlONTZMZ3c9PQ==
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yEdSMcCdwbY5iGl2tvx1dQ","kid":"YPICsWQH/t2ONpwyr1fdEA"}],"type":"temporary"} 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Okey_v1.png",TV Okey #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Okey_v1.png",TV Okey 
+#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 xui-id="1515" tvg-id="TVAlhijrah" tvg-name="" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbfqpJbNaTNL4OYbasJtzQDpM-TUXx0njevgEhmcV4v7.png" group-title="MALAYSIA",AL-HIJRAH
