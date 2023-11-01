@@ -859,7 +859,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5056
-#EXTINF:-1 tvg-id="713" tvg-logo="https://www.lyngsat.com/logo/tv/pp/paramount-network-us.png" group-title="Entertainment",Paramount Network FHD
+#EXTINF:-1 tvg-id="713" group-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" tvg-logo="https://www.lyngsat.com/logo/tv/pp/paramount-network-us.png" group-title="Entertainment",Paramount Network FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -869,7 +869,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2303
-#EXTINF:-1 tvg-id="701" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="Entertainment",AXN HD FHD
+#EXTINF:-1 tvg-id="701" group-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="Entertainment",AXN HD FHD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -879,15 +879,15 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5050
-#EXTINF:-1 tvg-id="717" tvg-name="" group-title="Entertainment" tvg-logo="https://iili.io/1mjMgt.png",BBC Lifestyle FHD
+#EXTINF:-1 tvg-id="717" group-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" tvg-name="" group-title="Entertainment" tvg-logo="https://iili.io/1mjMgt.png",BBC Lifestyle FHD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default.mpd
 
-#EXTINF:-1 tvg-id="WarnerTV" ch-number="712" group-title="Entertainment" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/515_1920x1080_HTV.png?w=213",Warner TV
+#EXTINF:-1 tvg-id="WarnerTV" ch-number="712" group-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="Entertainment" group-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/515_1920x1080_HTV.png?w=213",Warner TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2605
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default.mpd
 
-#EXTINF:-1 tvg-id="ParamountNetwork" group-title="Entertainment" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Paramount.png" ch-number="713",Paramount Network
+#EXTINF:-1 tvg-id="ParamountNetwork" group-title="Entertainment" group-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Paramount.png" ch-number="713",Paramount Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5056
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default.mpd
