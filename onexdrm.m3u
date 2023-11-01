@@ -14,7 +14,7 @@ http://trtv.my.id:80/live/liveIndex.mpd?e=c2J4KzNLdUo5WERRSVBBc3J1WmRRbXdDZU5ScV
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yEdSMcCdwbY5iGl2tvx1dQ","kid":"YPICsWQH/t2ONpwyr1fdEA"}],"type":"temporary"} 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Okey_v1.png" group-title"MALAYSIA" ,TV Okey 
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Okey_v1.png" group-title="MALAYSIA" ,TV Okey 
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 
