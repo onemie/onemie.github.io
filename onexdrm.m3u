@@ -570,8 +570,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5076/default.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="SPORTS",ASSP 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601 
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
+http://linearjitp-playback.astro.com.my:80/dash-wv/linear/2603/default.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="SPORTS",ASSP 2
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
