@@ -1,0 +1,90 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BeritaSatu.MACAN" tvg-name="Berita Satu" tvg-logo="https://i.ibb.co/FxD8rj8/beritasatu-home-tv.png" group-title="Indonesia",Berita Satu
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/98.ts
+#EXTINF:-1 tvg-id="CNNIndonesia.MACAN" tvg-name="CNN Indonesia" tvg-logo="https://i.ibb.co/sVBJdNZ/cnn-indo-home-tv.png" group-title="Indonesia",CNN Indonesia
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/99.ts
+#EXTINF:-1 tvg-id="CNBCIndonesia.MACAN" tvg-name="CNBC Indonesia" tvg-logo="https://i.ibb.co/h8y058y/cnbc-indo-home-tv.png" group-title="Indonesia",CNBC Indonesia
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/100.ts
+#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV " tvg-logo="https://i.ibb.co/gZLhrBt/gtv-home-tv.png" group-title="Indonesia",GTV 
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/21058.ts
+#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="Trans TV" tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="Indonesia",Trans TV
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/21061.ts
+#EXTINF:-1 tvg-id="TVOne.MACAN" tvg-name="TVOne" tvg-logo="https://i.ibb.co/Ptrwg6d/tvone-home-tv.png" group-title="Indonesia",TVOne
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/21063.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAJAWALI TV" tvg-logo="https://i.ibb.co/Qmh4NMJ/rtv-home-tv.png" group-title="Indonesia",RAJAWALI TV
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/21064.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="https://i.ibb.co/R3Hyxc1/kompastv-home-tv.png" group-title="Indonesia",Kompas TV
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/21065.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://i.ibb.co/d5tmxwX/tvri-home-tv.png" group-title="Indonesia",TVRI
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/21066.ts
+#EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="https://i.ibb.co/478Nqtp/antv-home-tv.png" group-title="Indonesia",ANTV
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/21067.ts
+#EXTINF:-1 tvg-id="MetroTV.MACAN" tvg-name="Metro TV" tvg-logo="https://i.ibb.co/M9c0sy2/metrotv-home-tv.png" group-title="Indonesia",Metro TV
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/21070.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOJI" tvg-logo="https://i.ibb.co/XsLqk8f/SGN-09-03-2022-1662138932019.png" group-title="Indonesia",MOJI
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/22831.ts
+#EXTINF:-1 tvg-id="Galaxy" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/dLsKfWF/wfg.png" group-title="Movies",Galaxy
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/53.ts
+#EXTINF:-1 tvg-id="zeecinema" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="Movies",HBO SIGNATURE HD
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/47.ts
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO FAMILY HD" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="Movies",HBO FAMILY HD
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/46.ts
+#EXTINF:-1 tvg-id="HITSMovies.MACAN" tvg-name="Hits Movies" tvg-logo="https://i.ibb.co/d7hB8xd/csw.png" group-title="Movies",Hits Movies
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/59.ts
+#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/h1WPmPG/VZX.png" group-title="Movies",Thrill
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/61.ts
+#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="Celestial Movies" tvg-logo="https://i.ibb.co/C7tHQXY/celestial-movies-home-tv.png" group-title="Movies",Celestial Movies
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/116.ts
+#EXTINF:-1 tvg-id="NickelodeonJr.MACAN" tvg-name="Nick JR" tvg-logo="https://i.ibb.co/4m6tX5J/bgfg.png" group-title="Kids",Nick JR
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/66.ts
+#EXTINF:-1 tvg-id="Aniplus.id" tvg-name="ANIPLUS" tvg-logo="https://i.ibb.co/6JGP61f/aniplus-home-tv.png" group-title="Kids",ANIPLUS
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/22833.ts
+#EXTINF:-1 tvg-id="GEMChannel.id" tvg-name="Sony GEM" tvg-logo="https://i.ibb.co/W0THBXG/s-gem-home-tv.png" group-title="Entertainment",Sony GEM
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/124.ts
+#EXTINF:-1 tvg-id="Kplus" tvg-name="K+" tvg-logo="https://i.ibb.co/VJX5J43/Kplus-home-tv.png" group-title="Entertainment",K+
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/126.ts
+#EXTINF:-1 tvg-id="Arirang.MACAN" tvg-name="ARIRANG" tvg-logo="https://i.ibb.co/ykm1ppp/arirang-home-tv.png" group-title="Entertainment",ARIRANG
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/127.ts
+#EXTINF:-1 tvg-id="nhk world Japan" tvg-name="NHK World" tvg-logo="https://i.ibb.co/NCgFhsD/nhk-world-jp-home-tv.png" group-title="Entertainment",NHK World
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/129.ts
+#EXTINF:-1 tvg-id="BlueAntEntertainment.id" tvg-name="Rock Entertainment" tvg-logo="https://i.ibb.co/j8R3ngZ/SGN-06-05-2022-1654445686353.png" group-title="Entertainment",Rock Entertainment
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/131.ts
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" tvg-logo="https://i.ibb.co/LYbyBKp/cgtn-documentary-home-tv.png" group-title="Knowledge",CGTN Documentary
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/136.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA" tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png" group-title="News International",AL JAZEERA
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/185.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT World" tvg-logo="https://i.ibb.co/TKNLMYL/trt-world-home-tv.png" group-title="News International",TRT World
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/188.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://i.ibb.co/nBtSKNF/bloomberg-home-tv.png" group-title="News International",Bloomberg
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/189.ts
+#EXTINF:-1 tvg-id="" tvg-name="DW English" tvg-logo="https://i.ibb.co/7kNhrmW/dw-english-home-tv.png" group-title="News International",DW English
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/190.ts
+#EXTINF:-1 tvg-id="" tvg-name="Izzah TV" tvg-logo="https://i.ibb.co/DVktLsG/SGN-05-29-2022-1653809699828.png" group-title="Religi",Izzah TV
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/194.ts
+#EXTINF:-1 tvg-id="" tvg-name="Madinah TV" tvg-logo="https://i.ibb.co/YkkM93P/ALQURAN.png" group-title="Religi",Madinah TV
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/1377.ts
+#EXTINF:-1 tvg-id="" tvg-name="MQTV" tvg-logo="https://i.ibb.co/XWP6xdz/mqtv-home-tv.png" group-title="Religi",MQTV
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/2231.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVMU" tvg-logo="https://i.ibb.co/GFmCccF/muhammadiyahtv-home-tv.png" group-title="Religi",TVMU
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/9238.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV EROPA" tvg-logo="https://i.ibb.co/wYVcWRh/mtv-home-tv.png" group-title="Music",MTV EROPA
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/198.ts
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC TOP" tvg-logo="https://i.ibb.co/ZcYj6Tw/musictv-home-tv.png" group-title="Music",MUSIC TOP
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/199.ts
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC TV" tvg-logo="https://i.ibb.co/ZcYj6Tw/musictv-home-tv.png" group-title="Music",MUSIC TV
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/2233.ts
+#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://i.ibb.co/v31x13p/wwe.png" group-title="Sport ID",WWE
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/179.ts
+#EXTINF:-1 tvg-id="EUROSPORT" tvg-name="EUROSPORT" tvg-logo="https://i.ibb.co/fG2Zbkz/SGN-09-11-2022-1662901814775.png" group-title="Sport ID",EUROSPORT
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/240.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://i.ibb.co/wY4LCjG/SGN-03-15-2022-1647333340751.png" group-title="Sport ID",NBA TV
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/21390.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub Golf" tvg-logo="https://i.ibb.co/vsP0bQv/SGN-02-03-2023-1675423729100.png" group-title="Sport ID",Sport Klub Golf
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/22484.ts
+#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET. " tvg-logo="https://i.ibb.co/mJjQDnj/nettv-home-tv.png" group-title="Indonesia",NET. 
+http://digitalnow.live:8080/live/gratisan-xxx/IdLhbOkO9F/21068.ts
+
+
+
+
+
