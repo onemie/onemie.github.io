@@ -41,7 +41,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yEdSMcCdwbY5iGl2tvx1dQ","kid":"YPICsWQH/t2ONpwyr1fdEA"}],"type":"temporary"} 
 #EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 
 #EXTINF:-1 xui-id="64" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT8czAKos6gyD-7fuSJIHa4M.png" group-title="MALAYSIA",TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
