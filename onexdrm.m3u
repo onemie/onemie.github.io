@@ -754,33 +754,40 @@ https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="SONY SPORTS TEN 5" tvg-logo="https://i.ibb.co/j4jPrPt/SGN-09-01-202j3-1693537260635.png",SONY SPORTS TEN 5
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Vu9LhmS.png",Dazn 1 DE
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Vu9LhmS.png",Dazn 1 DE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Vu9LhmS.png",Dazn 2 DE
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Vu9LhmS.png",Dazn 2 DE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Vu9LhmS.png",Dazn 1 ES
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Vu9LhmS.png",Dazn 1 ES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Vu9LhmS.png",Dazn 2 ES
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Vu9LhmS.png",Dazn 2 ES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-038/stream.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Vu9LhmS.png",Dazn F1 ES
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dashdrm/dazn-linear-016/stream.mpd
 
 ####################################### KIDZ ##########################################
 
