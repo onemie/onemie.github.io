@@ -94,13 +94,14 @@ https://aqfadtv.xyz/live/tv9/index.mpd
 #EXTINF:-1 tvg-id="AstroAura" tvg-name="Astro Aura" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbfqpJbNaTNL4OYbasJtzQCrBW9OVOIPeHJwX5zlm_Yf.png" group-title="MALAYSIA", Aura HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/609/
-https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_primary.mpd
+http://linearjitp-playback.astro.com.my:80/dash-wv/linear/609/default_ott.mpd
+
 ##https://iplogger.com/aura
 
 #EXTINF:-1 tvg-id="AstroRania" tvg-name="Astro Rania" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmZ2wBbXfqO_vlwalTWBYXc0y53S8g0F0wNclJVmyFMHz.png" group-title="MALAYSIA", Rania HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/608/
-https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
+http://linearjitp-playback.astro.com.my:80/dash-wv/linear/608/default_ott.mpd
 
 #EXTINF:-1 tvg-id="BOO" tvg-name="Astro BOO (M)" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4KcUIX662ElHI-uIawCwel31ByPydgfb7gc31PpA7YNG.png" group-title="MALAYSIA", BOO HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
