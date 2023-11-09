@@ -19,31 +19,32 @@ http://w.nasvpn.xyz:8080/live/best/best/7868.m3u8
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="AstroRia" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE",RIA B
 #EXTVLCOPT:http-user-agent=ffkyou
-http://w.nasvpn.xyz:8080/live/haji/haji/22497.m3u8
-://onego77.com/onextq.mp4
+http://onego77.com/onextq.mp4
 
 #EXTINF:-1 xui-id="" tvg-id="AstroWarna" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", WARNA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
-http://linears-playback.astro.com.my:80/vsg/41qDleTDmj5NatPdmQq1SxCcv5rdSl9FtdeVRdfFMxacY=iDH0/dash-wv/jitp-dashisowm/2402/default_ott.mpd?PID=&PAID=2402&deviceIdType=adid&deviceId=daf8411c466b9278cf8996ba33a92d97&appId=com.astro.astro&appName=Astro+Go&devModel=android_phone&sessionId=abr-linear-6032c876-ad41-4d81-8ad3-d702fa9033e2&optin=true&hhid=48aee3610a38fd6bc7e32831d3822c68&kvp=lang~may&kvp=genre~HD,MALAY&daiEnabled=true
+https://onego77.com/onextq.mp4
 ##https://lnk.ec/mas-vs-taj
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Arena" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE",Arena
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+p://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+https://onego77.com/onextq.mp4
 
 #EXTINF:-1 tvg-id="AstroArena2" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE",Arena 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
+s://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
+https://onego77.com/onextq.mp4
 
 #EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE",ARENA BOLA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5099
 #EXTVLCOPT:http-user-agent=ffkyou
-http://w.nasvpn.xyz:8080/live/haji/haji/19242.ts
-
+://w.nasvpn.xyz:8080/live/haji/haji/19242.ts
+https://onego77.com/onextq.mp4
 #####################################################################################################################################################################
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
