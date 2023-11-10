@@ -15,3 +15,13 @@ http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186389&extens
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="BACKUP" ,SuperSport 4
 http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=186390&extension=ts&play_token=oNnNMlQM3k
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-title="BACKUP" ,SuperSport 1 (B)
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/live/haji/haji/7845.ts
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="BACKUP" ,SuperSport 2 (B)
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/live/haji/haji/7844.ts
