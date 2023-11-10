@@ -24,9 +24,16 @@ http://onego77.com/onextq.mp4
 #EXTINF:-1 xui-id="" tvg-id="AstroSupersport" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", Supersport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
+#EXTVLCOPT:http-user-agent=ffkyou
 http://w.nasvpn.xyz:8080/live/haji/haji/7845.ts
 tps://onego77.com/onextq.mp4
 ##https://lnk.ec/mas-vs-taj
+
+#EXTINF:-1 xui-id="" tvg-id="AstroSupersport2" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", Supersport 2 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
+#EXTVLCOPT:http-user-agent=ffkyou
+http://w.nasvpn.xyz:8080/live/haji/haji/7844.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
