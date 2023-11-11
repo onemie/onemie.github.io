@@ -200,7 +200,7 @@ https://smt.sky4k.eu.org/live20899/index.m3u8?id=Ria
 #EXTINF:-1 xui-id="" tvg-id="AstroWarna" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="XSTRO", WARNA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
-http://trtv.my.id:80/live/liveIndex.mpd?e=c2J4KzNLdUo5WERRSVBBc3J1WmRRbXdDZU5ScVN1T1BETjFrd01vYmhTRzFIVU9wU2V3QnZuWm1VeGUxYms4NjRHZGhkWUlPRE90NC9RclIydTUzVzRxcktSRVVNQTVSeWZKTi9NOHc4b2pMV05GeFMxejV4YjNtL1NIZldUMzhjUmxIU1l4SFMza0FQbG5wYzNlNUthV0FkWk1ndDdYeA==
+https://smt.sky4k.eu.org/live20899/index.m3u8?id=Warna
 
 #EXTINF:-1 xui-id="" tvg-id="AstroWarna" tbg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="XSTRO" , CITRA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -418,6 +418,36 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
 ##https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default.mpd
 
 ####################################### MOVIES ##########################################
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png" group-title="MOVIES" ,Cinemachi 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#EXTVLCOPT:http-referrer=https://visionplus.id 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm 
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png" group-title="MOVIES" ,Cinemachi Action 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#EXTVLCOPT:http-referrer=https://visionplus.id 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm 
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png" group-title="MOVIES" ,Cinemachi Max 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#EXTVLCOPT:http-referrer=https://visionplus.id 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm 
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png" group-title="MOVIES" ,Cinemachi Xtra 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#EXTVLCOPT:http-referrer=https://visionplus.id 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm 
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png" group-title="MOVIES" ,Cinemachi Kids 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#EXTVLCOPT:http-referrer=https://visionplus.id 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm 
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 #EXTINF:-1 tvg-id="HBO" group-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="MOVIES",HBO FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
