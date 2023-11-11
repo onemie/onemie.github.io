@@ -13,38 +13,33 @@ https://onego77.com/onextq.mp4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="AstroRia" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE",RIA
-http://w.nasvpn.xyz:8080/live/best/best/7868.m3u8
-####http://linears-playback.astro.com.my:80/vsg/41uIyqDQs-USEOocS41l6CtQ4SKHZsOAVSmiN5oa6z2M8=AE0s/dash-wv/jitp-linearwm/1004/default_ott.mpd
+http://linears-playback.astro.com.my:80/vsg/41uIyqDQs-USEOocS41l6CtQ4SKHZsOAVSmiN5oa6z2M8=AE0s/dash-wv/jitp-linearwm/1004/default_ott.mpd
 ###https://onego77.com/onextq.mp4
 
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="AstroRia" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE",RIA B
-#EXTVLCOPT:http-user-agent=ffkyou
-http://onego77.com/onextq.mp4
 
 #EXTINF:-1 xui-id="" tvg-id="AstroSupersport" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", Supersport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
 #EXTVLCOPT:http-user-agent=ffkyou
-https://onego77.com/onextq.mp4
-##https://lnk.ec/mas-vs-taj
+http://w.nasvpn.xyz:8080/live/haji/haji/7845.ts
 
 #EXTINF:-1 xui-id="" tvg-id="AstroSupersport2" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", Supersport 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
 #EXTVLCOPT:http-user-agent=ffkyou
-https://onego77.com/onextq.mp4
+http://w.nasvpn.xyz:8080/live/haji/haji/7844.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
 #EXTINF:-1 tvg-id="AstroArena" tvg-name="Arena" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE",Arena
-p://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
-https://onego77.com/onextq.mp4
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+
 
 #EXTINF:-1 tvg-id="AstroArena2" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE",Arena 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
-s://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
-https://onego77.com/onextq.mp4
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
+
 
 #EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE",ARENA BOLA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
