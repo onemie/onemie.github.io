@@ -3,5 +3,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/
-#EXTINF:-1 tvg-id="TV9" group-title="Online TV" group-logo="https://aqfadtv.xyz/images/online_v4.png" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT_Jh3ihyVfFVpxXGeKflMEL.png",TV9
-https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
+http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/60582.ts
