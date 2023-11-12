@@ -1,0 +1,15 @@
+#EXTM3U x-tvg-url="https://aqfadtv.xyz/epg" url-tvg="https://aqfadtv.xyz/epg" refresh="1440" max-conn="1" refresh="24"
+
+#EXTM3U billed-msg="🔥OneXDRM FREEVIEW | NOT FOR SALE🔥" tvg-logo="
+
+#######################################################################################################################################################
+
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", OneGO77
+https://onego77.com/onextq.mp4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", SPORTS 
+https://onego77.com/onextq.mp4
