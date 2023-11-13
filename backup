@@ -15,3 +15,36 @@ http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/3161.ts
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/60582.ts
 ##https://onego77.com/onextq.mp4
 
+##########################################################################################################################################################
+
+#EXTINF:-1 tvg-id="RTMK05" tvg-name="TV SUKAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/RTM_HD_Sports.png/450px-RTM_HD_Sports.png" group-title="SERVER SPORTS",TV SUKAN
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+#https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9FJknMK.png" group-title="SERVER SPORTS",True Premier Football 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yS94g00.png" group-title="SERVER SPORTS",True Premier Football 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xBmmgXe.png" group-title="SERVER SPORTS",True Premier Football 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOfAIeF.png" group-title="SERVER SPORTS",True Premier Football 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IAvYAOR.png" group-title="SERVER SPORTS",True Premier Football 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
+#EXTINF:-1 tvg-id="818" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-title="SERVER SPORTS",BeIN Sports FHD
+
+#EXTINF:-1 tvg-id="bein" tvg-logo="https://epg-pp.beinsports.com/us_sports/beinx-es1.png" group-title="SERVER SPORTS",BEIN SPORTS XTRA
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
