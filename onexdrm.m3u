@@ -194,7 +194,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 #EXTINF:-1 xui-id="" tvg-id="AstroRia" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" group-title="XSTRO", RIA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
 http://linears-playback.astro.com.my:80/vsg/41uIyqDQs-USEOocS41l6CtVWlOGz-CULO6LF0X0p9pN8=B7li/dash-wv/jitp-linearwm/1004/default_ott.mpd
 ###https://smt.sky4k.eu.org/live20899/index.m3u8?id=Ria
 
