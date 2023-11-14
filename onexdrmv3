@@ -303,7 +303,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
 #EXTINF:-1 xui-id="" tvg-id="KBSWorld" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-title="KOREA", KBS World 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
-##https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default.mpd
 
 #EXTINF:-1 xui-id="" tvg-id="ONE" tvg-name="" tvg-logo="https://aqfadtv.xyz/logos/ONE.png" group-title="KOREA", One HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -317,7 +317,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
 #EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/ONE.png",ONE
-##https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default.mpd
 
 ############################################################# SOOKA ####################################################################################################
 
