@@ -356,10 +356,18 @@ http://w.nasvpn.xyz:8080/live/haji/haji/7847.ts
 http://w.nasvpn.xyz:8080/live/haji/haji/7842.ts
 #EXTINF: -1 tvg-id="AstroSupersport5" tvg-name="ASSP 5 HD CH815" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="MYSPORT", ASSP 5 HD CH815
 http://w.nasvpn.xyz:8080/live/haji/haji/16980.ts
+
 #EXTINF: -1 tvg-id="AstroArena" tvg-name="Astro Arena 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="MYSPORT", Astro Arena 1 HD
-http://w.nasvpn.xyz:8080/live/haji/haji/167.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a  
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
+
+
 #EXTINF: -1 tvg-id="AstroArena2" tvg-name="Astro Arena 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="MYSPORT", Astro Arena 2 HD
-http://w.nasvpn.xyz:8080/live/haji/haji/19243.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
+
 #EXTINF: -1 tvg-id="beINSports" tvg-name="beIN Sports HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="MYSPORT", beIN Sports HD
 http://w.nasvpn.xyz:8080/live/haji/haji/7884.ts
 #EXTINF: -1 tvg-id="beINSports2" tvg-name="beIN Sports 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" group-title="MYSPORT", beIN Sports 2
