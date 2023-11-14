@@ -47,7 +47,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 #EXTVLCOPT:http-user-agent=ffkyou
 https://onego77.com/onextq.mp4
 
-#####################################################################################################################################################################
+############### DRM SPORTS ######################################################################################################################################################
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=89c10c7ef0af145be7d6e88dec090b10:80558606a13a99d2c543872d8899ced0
@@ -234,7 +234,7 @@ http://103.166.27.2:8112/play/a01h/index.m3u8
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/BNC_v3.png" group-title"NEWS", BERNAMA 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default.mpd
 
-#EXTINF:-1 xui-id="8" tvg-id="AstroAwani" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-title="MEWS", Awani HD 
+#EXTINF:-1 xui-id="8" tvg-id="AstroAwani" tvg-name="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png" group-title="NEWS", Awani HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5025
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd
@@ -337,8 +337,21 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00223-unisysinfo-yrf-music-dash-s
 #EXTINF: -1 tvg-name="ESTV" tvg-logo="https://m3u-editor.com/storage/channel-logos/e371fe40-fb17-11ed-ad59-25e41945e2c7/4808492/984318548.gif" group-title="SOOKA", ESTV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00303-televisionkorea-estv-dash-sooka/index.mpd
 
-###########################################################################################@@##########################################
+############### MOVIES #########################################################################################################################
 
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png" group-title="MOVIES" ,Cinemachi 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#EXTVLCOPT:http-referrer=https://visionplus.id 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm 
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png" group-title="MOVIES",Cinemachi Action 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #EXTVLCOPT:http-referrer=https://visionplus.id 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm 
+https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+
+
+################## SPORTS ####################################################################################################################
 
 #EXTINF: -1 tvg-id="AstroSupersport" tvg-name="ASSP 1 HD CH811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="MYSPORT", ASSP 1 HD CH811
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
