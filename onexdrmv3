@@ -385,3 +385,13 @@ http://w.nasvpn.xyz:8080/live/haji/haji/20470.ts
 #EXTINF: -1 tvg-id="beINSports" tvg-name="beinsport 1 hdd" tvg-logo="https://i.ibb.co/4KzX9bF/One-GOZALTV02.jpg" group-title="MYSPORT", beinsport 1 hdd
 http://w.nasvpn.xyz:8080/live/haji/haji/20525.ts
 
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png" group-title="MYSPORT", SPOTV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5058 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png" group-title="MYSPORT",SPOTV2 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5079 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default.mpd
+
