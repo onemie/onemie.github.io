@@ -319,7 +319,10 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00303-televisionkorea-estv-dash-s
 
 
 #EXTINF: -1 tvg-id="AstroSupersport" tvg-name="ASSP 1 HD CH811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="MYSPORT", ASSP 1 HD CH811
-http://w.nasvpn.xyz:8080/live/haji/haji/7845.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2603
+http://linearjitp-playback.astro.com.my:80/dash-wv/linear/2603/default.mpd
+
 #EXTINF: -1 tvg-id="AstroSupersport2" tvg-name="ASSP 2 HD CH812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="MYSPORT", ASSP 2 HD CH812
 http://w.nasvpn.xyz:8080/live/haji/haji/7844.ts
 #EXTINF: -1 tvg-id="AstroSupersport3" tvg-name="ASSP 3 HD CH813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="MYSPORT", ASSP 3 HD CH813
