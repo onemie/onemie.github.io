@@ -4,7 +4,20 @@
 
 #######################################################################################################################################################
 
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="XSTRO",PRIMA HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90 
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-title="XSTRO",OASIS HD 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
+
+#EXTINF:-1 xui-id="" tvg-id="AstroPremier" tvg-name="" tvg-logo="https://i.ibb.co/9hF0Dx5/SGN-09-17-2023-1694929980026.png" group-title="XSTRO", PREMIER HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88b324e7e763532b770d84d370d7c810:0ad1e7b2d71fd73a5c199739e534da4b
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default.mpd
 
 ############### DRM SPORTS ######################################################################################################################################################
 
@@ -94,11 +107,6 @@ https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
 #EXTVLCOPT:http-user-agent=
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#https://ck-dash-mpd.astradamy.com/dash-ck/linear/2505
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-logo="MALAYSIA", OASIS HD 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
-
 #EXTINF:-1 tvg-id="AstroAura" tvg-name="Astro Aura" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroAura.png" group-title="MALAYSIA", Aura HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/609
@@ -114,11 +122,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/manifest.mpd
 
-
-#EXTINF:-1 xui-id="" tvg-id="AstroPremier" tvg-name="" tvg-logo="https://i.ibb.co/9hF0Dx5/SGN-09-17-2023-1694929980026.png" group-title="MALAYSIA", PREMIER HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=88b324e7e763532b770d84d370d7c810:0ad1e7b2d71fd73a5c199739e534da4b
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5070/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5071
