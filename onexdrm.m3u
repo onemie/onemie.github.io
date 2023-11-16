@@ -363,8 +363,8 @@ https://cdn09jtedge.indihometv.com/dvr/139/indosiar/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co/SXrk5h0/asrdrd.png" group-title="INDONESIA", RCTI HD
-https://nxanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co/SXrk5h0/asrdrd.png" group-title="INDONESIA", MNCTV
+http://103.152.118.53:2537/play.mpd?enc=eyJ1c2VyX2lkIjoiNjQ2MGQ3ODYtODEwMi00N2RmLTgyNmQtMzM2Mzc1YTgwZDM3IiwicmVmcmVzaF90b2tlbiI6IklrVVJ3ZjJDcjNFWkthbkVrWHpBcFRjZkNFczFBZytOY2U1dFBFVGFXWFhTVzdYVlR2TUlYa3NoT3hsTW9Gc29ubHk2VVk0MVVHd0F2WGRtOTNyQ2RudWoxMlBUNzBhYUVTSTNwbzVVRVR6LzVqekVnQ0Z2emQybUduTTllVm55ZUQyMTczNDNZalN4YVB2bTFud2lBbE1XRzVWUmtianpVNVZxTm9tU2FSUUZaYWdXWXVlTVo3eUZ3ckI2QlVpYTlodmV0ZDZMWVNvN2xObm5RZW1ZaG1QKzFtWmZtWGNaazFKb25CVXRoK2JkanpZQkJrNFJIVDJldDJhR0puV1l2a0xxRTgwRGNOc3dZTXYvMHVDZ05xVlNwYUtGWmk2Qnp6NkJuMXVyeWJ1Ym9pQUxHV3J6aHdBeFkwVlQ3S2ZLY055TVhGbWxyc3U0WmxxYkg2VG5CQT09In0=
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
