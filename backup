@@ -16,11 +16,12 @@ https://onego77.com/onextq.mp4
 http://103.152.118.53:2537/play.mpd?enc=eyJ1c2VyX2lkIjoiMzRjYmVlNTMtNzQ0Yy00NTkyLThlNGUtZTE2NDY1Y2EzN2ZjIiwicmVmcmVzaF90b2tlbiI6IlcvV3R2UkFhdk1qYWtXZTZNOWdONStzc3VmVzlkcTZnQTNxL25qOGJ5OTFKNUdlbEwrT0lQUkt6T3hUcTJQenhZcFBzNXdoWVhvUGhINTViMTNiUUZZMUpkblltZmFQSW5zeFdnNThJNzZHMklucTFxMExOQkRxbjRoR0U4YTVkcE9wTW1JK0tpZjlEaGFaSnBxT1NJd05GZUFJMitJdmgzMGMrYjRCMGVSdVNRSGVoS3lpZExyK2djd3R0b0o5L2NCUjhoaWtaNWFnTXI0OCtNcFdpNmN4ZXVpTElNcVlWYysvbGJyQWVaRUtDamkzSE5EcDl2ZkhvNkp5UlA2TXRCekFyZS91dlJObmVoL21ZeDFMVk1mZkhicmhKMFBvaWVMUGkyTTZpQjAxSHVXZ29uNFZ0YkpEVlREdDR3dUl5In0=
 
 
-#EXTINF:-1 xui-id="" tvg-id="AstroSupersport" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", Supersport 1
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", TNT Sport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
-#EXTVLCOPT:http-user-agent=ffkyou
-http://w.nasvpn.xyz:8080/live/haji/haji/7845.ts
+#EXTVLCOPT:http-user-agent=Ujicoba/1.0
+http://103.152.118.53:2537/play.m3u8?enc=eyJ1c2VyX2lkIjoiNmE1NDNhMGMtMTgwMy00MTYxLWJhYjYtNDhmZTNkN2Q2Y2Q2IiwicmVmcmVzaF90b2tlbiI6IlVmckx6SVowTUc1Mkp1anRBSWx3NDdqdUl3MFdmZ1dRSnhvZFFqenpUaTRHeUkyaEhaS2d6c2xvaExvMzU0NDMxREtKcmJOQUZsMVZ5T093M0dzOWR6SDAzT3Y3bTNaVXhLRDNzeUNIMGptNFRkZjlkZHpsay82TWhVbXFuaGdZLyszM0ErZGdJRk5qMFhmZmk4V3UrZlJTUm1TZGpNMnREWE1NWHFLWEEzNjFSeGlSRUEvWmFXTW1nRU1MM0lhcGpFRzFjWm9SK01Ua29paTNPNFNoSWk4SFdlSlhvM3hnVk0zRXlhb0FRUUJ2d25XQjRFMjlmREN5NVlFMDRpQzZOdVMvSE9RUkZoMkhoK0tMZU9yQmJHMWNiNGg5VjVzSDF4TUExNDhFWFlaWnh5TGJ4NkZlaG5uenNBRjM2aGs1In0=
+##http://w.nasvpn.xyz:8080/live/haji/haji/7845.ts
 
 #EXTINF:-1 xui-id="" tvg-id="AstroSupersport2" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", Supersport 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
