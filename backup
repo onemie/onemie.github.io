@@ -53,6 +53,16 @@ http://w.nasvpn.xyz:8080/live/best/best/20595.m3u8
 http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/60582.ts
 ##https://onego77.com/onextq.mp4
 
+##############################################################################################################################################################
+
+#EXTINF:-1 xui-id="" tvg-id="OKEY" tvg-name="TV6" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="FREEVIEW",OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="FREEVIEW",Selangor TV 
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-referrer=https://skyios.sky4k.top 
+https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
+
 ##################################################################################################################################################
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
