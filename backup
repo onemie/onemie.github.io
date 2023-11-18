@@ -81,8 +81,11 @@ http://vo01.mohdtv.com:8880/live/voay3911/pnrj82ba/3161.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2510 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png" group-title="KNOWLEDGE", DISCOVERY HD 
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
+https://khanggtivi.xyz/getplay/tvfree/discovery/playlist.m3u8
+tp://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 
+#EXTINF:-1 tvg-logo="https://static.wirtualnemedia.pl/media/top/Love-Nature-4K-2021.jpg" group-title="KNOWLEDGE", LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 ##########################################################################################################################################################
 
