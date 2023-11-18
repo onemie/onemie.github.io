@@ -21,15 +21,27 @@ http://iptv12k.com:35461/testmy167/12345/735
 #EXTVLCOPT:http-user-agent=Ujicoba/1.0
 http://iptv12k.com:35461/testmy167/12345/13552
 
-#EXTINF:-1 xui-id="" tvg-id="AstroSupersport2" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", Supersport 2 
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", Supersport 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
 #EXTVLCOPT:http-user-agent=ffkyou
-http://iptv12k.com:35461/testmy167/12345/13553
+http://iptv12k.com:35461/testmy167/12345/7988
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", Supersport 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
+#EXTVLCOPT:http-user-agent=ffkyou
+http://iptv12k.com:35461/testmy167/12345/5221
+
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", Supersport 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
+#EXTVLCOPT:http-user-agent=ffkyou
+http://iptv12k.com:35461/testmy167/12345/11240
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
-#EXTINF:-1 tvg-id="AstroArena" tvg-name="Arena" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE",Arena
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE",Arena
 http://iptv12k.com:35461/testmy167/12345/5943
 
 
