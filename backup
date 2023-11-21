@@ -56,7 +56,7 @@ http://iptv12k.com:35461/testmy167/12345/13547
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5099
 #EXTVLCOPT:http-user-agent=ffkyou
-http://w.nasvpn.xyz:8080/live/best/best/19242.ts
+http://w.nasvpn.xyz:8080/live/haji/haji/19242.ts
 ###@http://iptv12k.com:35461/testmy167/12345/20627
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
