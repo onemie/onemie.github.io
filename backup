@@ -21,11 +21,11 @@ http://iptv12k.com:35461/testmy167/12345/735
 #EXTVLCOPT:http-user-agent=Ujicoba/1.0
 http://iptv12k.com:35461/testmy167/12345/13552
 
-#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", TEST 1
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", SUPERSPORT HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.9A405 (iPad; U; CPU OS 5_0_1 like Mac OS X; zh_cn)
-http://185.6.15.149:3556/hls/live.m3u8?token=fOfX79ectXR8oK4iFh3j34J_Umsqu1JJhx0Ndg1l3-LZ1mv6ulDQyzLbTsbDbBEVir9WaS-eE-qnW6xX
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01944-ktalpha-kpopcorn-dash-sooka/b7eac688-1b34-4443-b20d-b32344efaf49/index.mpd
 tp://iptv12k.com:35461/testmy167/12345/7988
 
 #EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", Supersport 3
