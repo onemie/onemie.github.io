@@ -7,7 +7,7 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", ONEXDRM
-https://onego77.com/onextq.mp4
+http://linear037-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt2sport50)/manifest_hd.mpd
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
