@@ -36,13 +36,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default.mpd
 ##https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
 
 #EXTINF:-1 xui-id="1437" tvg-id="OKEY" tvg-name="" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmVb0rXxsGqcuGxFyBWVLMPELWvWqYaLIjuTEC91sudG_.png" group-title="MALAYSIA",OKEY
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yEdSMcCdwbY5iGl2tvx1dQ","kid":"YPICsWQH/t2ONpwyr1fdEA"}],"type":"temporary"} 
-#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my 
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
-://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575  
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default.mpd
 
 #EXTINF:-1 xui-id="64" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmbNotpkUqOYWzhpx6CfZpT8czAKos6gyD-7fuSJIHa4M.png" group-title="MALAYSIA",TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -110,9 +106,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default.mpd
 ##https://iplogger.com/aura
 
 #EXTINF:-1 tvg-id="AstroRania" tvg-name="Astro Rania" tvg-logo="https://link.nxtdns.tech:443/images/jYyFYmK2rapWuef_V2WlmZ2wBbXfqO_vlwalTWBYXc0y53S8g0F0wNclJVmyFMHz.png" group-title="MALAYSIA", Rania HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/608/
-http://linearjitp-playback.astro.com.my:80/dash-wv/linear/608/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" } 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default.mpd
 
 #EXTINF:-1 tvg-id="BOO" tvg-name="Astro BOO (M)" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4KcUIX662ElHI-uIawCwel31ByPydgfb7gc31PpA7YNG.png" group-title="MALAYSIA", BOO HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
