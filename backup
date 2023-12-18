@@ -6,8 +6,9 @@
 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", WARNA
-http://w.nasvpn.xyz:8080/live/best/best/22544.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", TEST
+https://www.netskyx.com/tmp/facebook_714ccb94335b420eb4e38f7e30be80a7.mpd
+##http://w.nasvpn.xyz:8080/live/best/best/22544.m3u8
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
