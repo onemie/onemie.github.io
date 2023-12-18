@@ -116,7 +116,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
 
 #EXTINF:-1 xui-id="8" tvg-id="AstroAwani" tvg-name="" tvg-logo="https://link.nxtdns.tech:443/images/5sqsmB-tnoCIrT2WgIK-4OVKYfgn4lnOChsfsGBzSagyCQpF8MBL91JqaNo57mxS.png" group-title="MALAYSIA", Awani HD 
-##KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=6f06f3b3cf7cbad0cc8b21e2c94dfb10:525510cfa634bd630af8c95fa93576ca 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default.mpd
 
