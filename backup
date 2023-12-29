@@ -23,7 +23,7 @@ tp://iptv12k.com:35461/testmy167/12345/735
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"37fb99ca61a94c889fdc758bb2a67495": "f723fd2686d9ce8f76a83fac34dff9e4"}
 #EXTINF:-1 tvg-id="" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="BACKUP LIVE" ch-number="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",ASTRO RIA sooka
-https://linear07-playback.sooka.my/CH4/masterCH4.mpd
+http://trtv.my.id:80/live/index.mpd?e=eXZpckhFWT1xSnFhTDJMNllsOTVxelNsb3pJellKQTVvemtpb2FPNFl6NXpNMkl2WWFPdnJ2NTZvUDljTWFEaUFRU1ZIR3l3SDNTTUcyNXZIMGc2WlNJY0RJTm1vVXUzRXhqMU1RdDFIS2NUTVI5VW5IeURKS1NrRTBxMENKeWVIVXRpcEo1enFGMWRuRjkzcXpxd1lLeTJMS1doTUpjNlltUmpaUURpcno1dXFhQWxNenBocnpBayZoPUVLTWdvYXk2cXd4alpRTD0=
 
 #EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", Supersport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
