@@ -12,7 +12,7 @@ https://www.netskyx.com/tmp/facebook_714ccb94335b420eb4e38f7e30be80a7.mpd
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="AstroRia" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", RIA
 http://trtv.my.id:80/live/index.mpd?e=eXZpckhFWT1xSnFhTDJMNllsOTVxelNsb3pJellKQTVvemtpb2FPNFl6NXpNMkl2WWFPdnJ2NTZvUDljTWFEaUFRU1ZIR3l3SDNTTUcyNXZIMGc2WlNJY0RJTm1vVXUzRXhqMU1RdDFIS2NUTVI5VW5IeURKS1NrRTBxMENKeWVIVXRpcEo1enFGMWRuRjkzcXpxd1lLeTJMS1doTUpjNlltUmpaUURpcno1dXFhQWxNenBocnpBayZoPUVLTWdvYXk2cXd4alpRTD0=
 tp://iptv12k.com:35461/testmy167/12345/735
