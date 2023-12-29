@@ -5,10 +5,10 @@
 
 ################################################################################################
 
-#EXTINF:-1 xui-id="" tvg-id="AstroRia" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" group-title="BACKUP LIVE", RIA
+#EXTINF:-1 xui-id="" tvg-id="AstroRia" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png" group-title="BACKUP LIVE", RIA HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #https://ck-dash-mpd.astradamy.com/dash-ck/linear/1004
-http://linears-playback.astro.com.my:80/vsg/41uIyqDQs-USEOocS41l6CtYxFL4kmZkigs8eodIWw72U=TBMB/dash-wv/jitp-linearwm/1004/default_ott.mpd
+http://trtv.my.id:80/live/index.mpd?e=eXZpckhFWT1xSnFhTDJMNllsOTVxelNsb3pJellKQTVvemtpb2FPNFl6NXpNMkl2WWFPdnJ2NTZvUDljTWFEaUFRU1ZIR3l3SDNTTUcyNXZIMGc2WlNJY0RJTm1vVXUzRXhqMU1RdDFIS2NUTVI5VW5IeURKS1NrRTBxMENKeWVIVXRpcEo1enFGMWRuRjkzcXpxd1lLeTJMS1doTUpjNlltUmpaUURpcno1dXFhQWxNenBocnpBayZoPUVLTWdvYXk2cXd4alpRTD0=
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
