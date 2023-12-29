@@ -17,6 +17,14 @@ https://www.netskyx.com/tmp/facebook_714ccb94335b420eb4e38f7e30be80a7.mpd
 http://trtv.my.id:80/live/index.mpd?e=eXZpckhFWT1xSnFhTDJMNllsOTVxelNsb3pJellKQTVvemtpb2FPNFl6NXpNMkl2WWFPdnJ2NTZvUDljTWFEaUFRU1ZIR3l3SDNTTUcyNXZIMGc2WlNJY0RJTm1vVXUzRXhqMU1RdDFIS2NUTVI5VW5IeURKS1NrRTBxMENKeWVIVXRpcEo1enFGMWRuRjkzcXpxd1lLeTJMS1doTUpjNlltUmpaUURpcno1dXFhQWxNenBocnpBayZoPUVLTWdvYXk2cXd4alpRTD0=
 tp://iptv12k.com:35461/testmy167/12345/735
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik4yUmhNREU0WVdFdE5EQmxPQzAwWkdSaUxUazRNbVF0TURJNE5HVmhPVEppTnpNMCIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTA0NjcyOCwiaWF0IjoxNzAwNDQyNzI4fQ.Thwg2qmnavViI6czwEKFomJwaZSIm2SM9sLmYGHgvPI"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"37fb99ca61a94c889fdc758bb2a67495": "f723fd2686d9ce8f76a83fac34dff9e4"}
+#EXTINF:-1 tvg-id="" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="BACKUP LIVE" ch-number="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",ASTRO RIA sooka
+https://linear07-playback.sooka.my/CH4/masterCH4.mpd
+
 #EXTINF:-1 xui-id="" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/QjCL4NY/IMG-20230928-124129-906.jpg" group-title="BACKUP LIVE", Supersport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
